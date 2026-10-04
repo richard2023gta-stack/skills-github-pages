@@ -1269,8 +1269,8 @@ intentionn. 意图，意向，目的</br>
 “这是一个杜鹃的故事，先生。除了不知道他生于何地，父母是谁，他怎么发的第一笔财，其余的我都知道。海尔顿就像羽毛未丰的鸟雀一样被驱逐了！这个可怜的小伙子是这个教区中唯一不知道自己被欺骗了的人。</br>
 'Well, Mrs. Dean, it will be a charitable deed to tell me something of my neighbours: I feel I shall not rest if I go to bed; so be good enough to sit and chat an hour.'</br>
 “那么，迪安太太，如果你能告诉我一些关于我邻居的事情真实太好了。因为我觉得现在我也睡不着，还不如坐在这里和你聊上一个小时。”
-
-
+</br>
+</br>
 重点单词</br>
 deedn. 事迹，行为，[法]契约 vt. 立契转让 a</br>
 exceptvt. 除，除外 prep. & conj. 除了 ..</br>
@@ -1282,3 +1282,588 @@ castv. 投，掷，抛，铸造，丢弃，指定演员，加起来，投射(目
 astonishedadj. 惊讶的 动词astonish的过去式和过去分词</br>
 charitableadj. 仁慈的，(为)慈善事业的，宽恕的</br>
 removev. 消除，除去，脱掉，搬迁 n. </br>
+
+</br>
+</br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第21篇</h1>
+日期:2008-09-20 23:11
+(单词翻译:单击)
+
+'Oh, certainly, sir! I'll just fetch a little sewing, and then I'll sit as long as you please. But you've caught cold: I saw you shivering, and you must have some gruel to drive it out.'
+
+“噢，当然好，先生！我去取我的针线活来，你想让我待多久我就待多久。但是你感冒了，我看见你在哆嗦，你得喝点稀粥御御寒！”
+
+The worthy woman bustled off, and I crouched nearer the fire; my head felt hot, and the rest of me chill: moreover, I was excited, almost to a pitch of foolishness, through my nerves and brain. This caused me to feel, not uncomfortable, but rather fearful (as I am still) of serious effects from the incidents of to-day and yesterday. She returned presently, bringing a smoking basin and a basket of work; and, having placed the former on the hob, drew in her seat, evidently pleased to find me so companionable. 
+</br>
+这个可敬的女人匆匆离去，我蜷缩到离火更近的地方，感觉脑门很烫，其他的地方却发寒。更重要的是，我的神经和大脑都很兴奋，兴奋到几近愚蠢的程度。这并没有让我感到不舒服，而是对今天和昨天发生的一切的严重后反应感到恐惧。她很快就回来了， 带回一个热气腾腾的粥盆和一个针线篮子。她把粥盆放到铁架上，就坐回到椅子上，显然对我的如此友好感到满意。
+
+Before I came to live here, she commenced - waiting no farther invitation to her story - I was almost always at Wuthering Heights; because my mother had nursed Mr. Hindley Earnshaw, that was Hareton's father, and I got used to playing with the children: I ran errands too, and helped to make hay, and hung about the farm ready for anything that anybody would set me to. One fine summer morning - it was the beginning of harvest, I remember - Mr. Earnshaw, the old master, came down-stairs, dressed for a journey; and, after he had told Joseph what was to be done during the day, he turned to Hindley, and Cathy, and me - for I sat eating my porridge with them - and he said, speaking to his son, 'Now, my bonny man, I'm going to Liverpool to-day, what shall I bring you? You may choose what you like: only let it be little, for I shall walk there and back: sixty miles each way, that is a long spell!' Hindley named a fiddle, and then he asked Miss Cathy; she was hardly six years old, but she could ride any horse in the stable, and she chose a whip. He did not forget me; for he had a kind heart, though he was rather severe sometimes. He promised to bring me a pocketful of apples and pears, and then he kissed his children, said good-bye, and set off.
+
+没有任何的邀请，她开始讲起了她的故事：在我来这里之前，我几乎从来没有离开过呼啸山庄。因为我的妈妈是欣德利·恩肖先生的奶妈，他是海尔顿的爸爸。我则习惯和孩子们一起玩耍。我也干些杂活，帮忙晒干草，或是在农场上转悠，看看有没有人要我帮忙。一个晴朗的夏天的早上，这时正是收获的季节，我记得，老主人恩肖先生穿着旅行装下楼来。在他告诉约瑟夫今天要做些什么之后，他转向欣德利，凯西和我，因为我和他们一起吃稀饭，他对她得儿子说，“嘿，我的帅小子，我今天要去利物浦，想让我给你带点什么？你说你喜欢什么吧，只是一定要小，因为我是走路去，走路回来。单程六十英里，是很长的路啊！”欣德利点名要了小提琴。他又问凯西小姐想要什么。她几乎还不到六岁，但是她却可以很平稳的驾驭所有的马，所以她要一只马鞭。他也没有忘记我，因为他非常的好心肠，尽管有的时候非常的严厉。他答应给我带满满一包苹果和梨。然后他亲吻了他的孩子，说罢再见，就出发了。
+
+It seemed a long while to us all - the three days of his absence - and often did little Cathy ask when he would be home. Mrs. Earnshaw expected him by supper-time on the third evening, and she put the meal off hour after hour; there were no signs of his coming, however, and at last the children got tired of running down to the gate to look. Then it grew dark; she would have had them to bed, but they begged sadly to be allowed to stay up; and, just about eleven o'clock, the door-latch was raised quietly, and in stepped the master. He threw himself into a chair, laughing and groaning, and bid them all stand off, for he was nearly killed - he would not have such another walk for the three kingdoms.
+
+这对我们所有人来说他离家三天真是非常漫长，凯西总是问他什么时候回来。恩肖太太觉得他在第三天晚上的晚饭时间会回来，于是她把晚饭推后了一个又一个小时，但是却没有任何回来的迹象，最后孩子们也没有力气跑到门口去看了。天黒了，她本该让他们上床，但是他们苦苦哀求不睡，终于在十一点的时候，门锁被轻轻的推开，主人走了进来。他倒在椅子上，笑着呻吟，请他们所有的人都不要靠近，因为他几乎快没命了。三百年都不会再走这样的路程了。
+
+'And at the end of it to be flighted to death!' he said, opening his great-coat, which he held bundled up in his arms. 'See here, wife! I was never so beaten with anything in my life: but you must e'en take it as a gift of God; though it's as dark almost as if it came from the devil.'
+
+“最后简直久是在奔向死亡啊！”他说着，敞开他的大衣，露出他绑在怀里的东西，“看这儿，太太！我从来没有像这样被被打败过，但是你必须得把它当作是神得礼物，尽管它跟从地狱来的一样黒！”
+
+We crowded round, and over Miss Cathy's head I had a peep at a dirty, ragged, black-haired child; big enough both to walk and talk: indeed, its face looked older than Catherine's; yet when it was set on its feet, it only stared round, and repeated over and over again some gibberish that nobody could understand. I was frightened, and Mrs. Earnshaw was ready to fling it out of doors: she did fly up, asking how he could fashion to bring that gipsy brat into the house, when they had their own bairns to feed and fend for? What he meant to do with it, and whether he were mad? The master tried to explain the matter; but he was really half dead with fatigue, and all that I could make out, amongst her scolding, was a tale of his seeing it starving, and houseless, and as good as dumb, in the streets of Liverpool, where he picked it up and inquired for its owner. Not a soul knew to whom it belonged, he said; and his money and time being both limited, he thought it better to take it home with him at once, than run into vain expenses there: because he was determined he would not leave it as he found it. Well, the conclusion was, that my mistress grumbled herself calm; and Mr. Earnshaw told me to wash it, and give it clean things, and let it sleep with the children.
+
+我们围成一团，从凯西小姐头顶上方，我看见一个脏脏的，衣衫褴褛的，黑头发的孩子。已经到了能够走路和说话的年龄了，只是脸看上去比凯西大些。然而当把它放到地上的时候，它只是四处张望，重复说着一些没有人听得懂的胡话。我吓坏了，而肖恩太太则准备把它扔出门去。她真的是勃然大怒，责问他为什么时髦到把这样流浪小孩带回家来，骂他是不是疯掉了？主人试图解释，但是他真的是疲惫得要死，在她得责骂中，我慢慢得明白，他在利物浦得街头，看见这个孩子快要饿死了，又无家可归，又很乖巧。他捡到这个孩子，寻找它的主人，因为他认为是他发现了它，那么他就不能坐视不管。那么结果是，女主人恢复了平静，恩肖先生
+
+重点单词</br>
+foolishnessn. 愚蠢；可笑</br>
+fearfuladj. 担心的，可怕的</br>
+frightenedadj. 受惊的，受恐吓的</br>
+bratn. 乳臭未干的小孩；顽童</br>
+conclusionn. 结论</br>
+fatiguen. 疲乏，疲劳，累活 adj. 疲劳的 vt. 使 .</br>
+invitationn. 邀请，招待，邀请函，引诱，招致</br>
+hayn. 干草</br>
+understandvt. 理解，懂，听说，获悉，将 ... 理解为，认为</br>
+determinedadj. 坚毅的，下定决心的</br>
+</br>
+</br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第22篇</h1>
+日期:2008-09-20 23:12
+(单词翻译:单击)
+
+Hindley and Cathy contented themselves with looking and listening till peace was restored: then, both began searching their father's pockets for the presents he had promised them. The former was a boy of fourteen, but when he drew out what had been a fiddle, crushed to morsels in the great-coat, he blubbered aloud; and Cathy, when she learned the master had lost her whip in attending on the stranger, showed her humour by grinning and spitting at the stupid little thing; earning for her pains a sound blow from her father, to teach her cleaner manners. They entirely refused to have it in bed with them, or even in their room; and I had no more sense, so I put it on the landing of the stairs, hoping it might be gone on the morrow. By chance, or else attracted by hearing his voice, it crept to Mr. Earnshaw's door, and there he found it on quitting his chamber. Inquiries were made as to how it got there; I was obliged to confess, and in recompense for my cowardice and inhumanity was sent out of the house.
+
+一切恢复平静之后，欣德利和凯西也看够了，听够了。他们开始搜父亲的口袋，寻找他们的礼物。前者是个14岁的男孩，当他发现小提琴在口袋里已经被压碎了之后，大声的哭了。而凯西，当她发现父亲为了照顾这个陌生人而把自己的马鞭弄丢了，她以她的幽默了结了此事，充这个愚蠢的小东西咧嘴，吐口水。让她心痛的是父亲呵斥她要礼貌的声音。他们拒绝让它睡到他们的床上，甚至不让它进他们的房间。我没有办法，只能把它放在楼梯上面的平台上，希望明天它会离开。碰巧，或是他的声音吸引了它，它爬到恩肖先生的卧室门口，恩肖先生一出门就看见了它，于是问道，它怎么会在哪里。我不得不承认。作为对我的懦弱和不友好的惩罚，我被赶出了屋子。
+
+This was Heathcliff's first introduction to the family. On coming back a few days afterwards (for I did not consider my banishment perpetual), I found they had christened him 'Heathcliff': it was the name of a son who died in childhood, and it has served him ever since, both for Christian and surname. Miss Cathy and he were now very thick; but Hindley hated him: and to say the truth I did the same; and we plagued and went on with him shamefully: for I wasn't reasonable enough to feel my injustice, and the mistress never put in a word on his behalf when she saw him wronged.
+
+这就是希斯克利夫就这样进入到了这个家庭。我回来没有几天（因为我不认为对我的放逐是永久的），我发现他们给他取名“希斯克利夫”。这是他们夭折了的孩子的名字，而从此以后他就叫这个名字，包括教名和姓氏。现在凯西小姐和他很亲密，但是欣德利讨厌他，事实上我也是的。我们折磨他，以不得体的方式对待他。因为我还没有理智到认识到自己的不公正，而女主人看见他受欺负的时候也不会帮他说话。
+
+He seemed a sullen, patient child; hardened, perhaps, to ill- treatment: he would stand Hindley's blows without winking or shedding a tear, and my pinches moved him only to draw in a breath and open his eyes, as if he had hurt himself by accident, and nobody was to blame. This endurance made old Earnshaw furious, when he discovered his son persecuting the poor fatherless child, as he called him. He took to Heathcliff strangely, believing all he said (for that matter, he said precious little, and generally the truth), and petting him up far above Cathy, who was too mischievous and wayward for a favourite.
+
+他似乎是个阴郁，能忍耐的孩子。也许，已经锤炼得不怕虐待了。他眼睛都不眨一下的可以忍受欣德利的拳头，更不会滴一滴眼泪。我掐他也只能让他吸口气，睁大眼睛而已，就像是他无意间弄伤了自己一样，不责备任何人。当老恩肖先生召见他的时候，如果他发现儿子欺负这个没爹的孩子，这个孩子的忍耐会让他非常的生气。他对希斯克利夫非常喜欢，相信他说的每句话（这个问题上，他说的总是很少，而且一般情况下都是事实），对他的宠爱远远高于凯西，因为凯西太淘气，太任性，难以成为他的最爱。
+
+So, from the very beginning, he bred bad feeling in the house; and at Mrs. Earnshaw's death, which happened in less than two years after, the young master had learned to regard his father as an oppressor rather than a friend, and Heathcliff as a usurper of his parent's affections and his privileges; and he grew bitter with brooding over these injuries. I sympathised a while; but when the children fell ill of the measles, and I had to tend them, and take on me the cares of a woman at once, I changed my idea. Heathcliff was dangerously sick; and while he lay at the worst he would have me constantly by his pillow: I suppose he felt I did a good deal for him, and he hadn't wit to guess that I was compelled to do it. However, I will say this, he was the quietest child that ever nurse watched over. The difference between him and the others forced me to be less partial. Cathy and her brother harassed me terribly: he was as uncomplaining as a lamb; though hardness, not gentleness, made him give little trouble.
+
+所以，从一开始，他就给这个家庭带来不愉快。不到两年，肖恩太太就去世了，而小主人则学会了把他的父亲当作是压迫者，而不是朋友，把希斯克利夫当作是篡夺他父母感情和他的权利的篡位者，由于对这些伤害念念不忘，他变得怀恨在心。我同情了他一段时间，可是当这些孩子得了麻疹之后，我得照顾他们，而我立即表现出来一个女人的关爱，同时也改变了我的想法。希斯克利夫病得很重，当他躺在那里最难受的时候，他会要求我一直陪在他的枕边。我想他肯定是觉得我对他做了件大好事，但是他猜不到我是被迫这样做的。然而，我得说，他是护士照顾过的孩子中最安静的一个。他和其他孩子的差别让我不再那么偏信。凯西和她的哥哥烦得我不行，而他却像一只没有怨言得羔羊，尽管难处，不亲切，但是他不怎么添麻烦。
+
+
+He got through, and the doctor affirmed it was in a great measure owing to me, and praised me for my care. I was vain of his commendations, and softened towards the being by whose means I earned them, and thus Hindley lost his last ally: still I couldn't dote on Heathcliff, and I wondered often what my master saw to admire so much in the sullen boy; who never, to my recollection, repaid his indulgence by any sign of gratitude. He was not insolent to his benefactor, he was simply insensible; though knowing perfectly the hold he had on his heart, and conscious he had only to speak and all the house would be obliged to bend to his wishes. As an instance, I remember Mr. Earnshaw once bought a couple of colts at the parish fair, and gave the lads each one. Heathcliff took the handsomest, but it soon fell lame, and when he discovered it, he said to Hindley –
+
+他好了，医生说这都是我的功劳，并表扬了我的工作。我得意于他的表扬，并对这个让我受表扬的孩子心软了些，因此欣德利失去了他最后一个同盟。但是，我仍然不喜欢希斯克利夫，而且我常常在想是什么让老主人如此喜欢一个阴郁的孩子。在我的印象中，这个孩子从来没有对他的包容作出任何回报。他并不是对他的恩人傲慢，只是麻木而已。尽管他完全知道他在主人心目中的分量，也知道只要他说，这个屋子里的人都会按照他的意愿去做。例如，我记得有一次恩肖先生在教会的市场上买了两只小马，分给两个男孩。希斯克利夫得到了最漂亮的那个，但是不久它就跛了，当他发现之后，他对欣德利说——
+
+'You must exchange horses with me: I don't like mine; and if you won't I shall tell your father of the three thrashings you've given me this week, and show him my arm, which is black to the shoulder.' Hindley put out his tongue, and cuffed him over the ears. 'You'd better do it at once,' he persisted, escaping to the porch (they were in the stable): 'you will have to: and if I speak of these blows, you'll get them again with interest.' 'Off, dog!' cried Hindley, threatening him with an iron weight used for weighing potatoes and hay. 'Throw it,' he replied, standing still, 'and then I'll tell how you boasted that you would turn me out of doors as soon as he died, and see whether he will not turn you out directly.' Hindley threw it, hitting him on the breast, and down he fell, but staggered up immediately, breathless and white; and, had not I prevented it, he would have gone just so to the master, and got full revenge by letting his condition plead for him, intimating who had caused it. 'Take my colt, Gipsy, then!' said young Earnshaw. 'And I pray that he may break your neck: take him, and he damned, you beggarly interloper! and wheedle my father out of all he has: only afterwards show him what you are, imp of Satan. - And take that, I hope he'll kick out your brains!'
+
+“你必须把你的马换给我，因为我不喜欢我的。如果你不换给我，我就告诉你父亲，这个礼拜你重重打我三拳的事情，我会给他看我的胳膊，都青到肩膀了。“欣德利吐吐舌头，并打了他耳光，“你最好现在就做。”他躲到门廊（他们原来在马厩里），坚持道，“你必须换。如果我说出你打我的事，你会连本带利的偿还的。”“滚，狗！”欣德利叫道，并用称土豆和干草的铁秤砣威胁他。“扔啊！”他回答道，一动不动的，“那我就告诉他你是如何鼓吹他一去世你就会将我赶出去。”欣德利扔了出来，打在他的胸上，他倒了下去，但是很快挣扎着站了起来，气喘吁吁，脸色苍白。如果不是我的阻止，他会直接去主人那里，直接让他的情况为他辩护，表露出是谁做干的，彻底复仇。“把我得马拿去吧，流氓！”小肖恩说，“我希望它弄断你的脖子。拿去吧，你这个讨厌的要饭的入侵者！你把我父亲的东西全都骗去了。最后你会让他看见你的真实面目的，魔鬼的小子。拿去吧，我希望它把你的脑袋踢开花！”
+
+Heathcliff had gone to loose the beast, and shift it to his own stall; he was passing behind it, when Hindley finished his speech by knocking him under its feet, and without stopping to examine whether his hopes were fulfilled, ran away as fast as he could. I was surprised to witness how coolly the child gathered himself up, and went on with his intention; exchanging saddles and all, and then sitting down on a bundle of hay to overcome the qualm which the violent blow occasioned, before he entered the house. I persuaded him easily to let me lay the blame of his bruises on the horse: he minded little what tale was told since he had what he wanted. He complained so seldom, indeed, of such stirs as these, that I really thought him not vindictive: I was deceived completely, as you will hear.
+
+希斯克利夫走上去解开马，把它系到自己的马厩里。他走在它的后面，当欣德利停止了责骂，在马的脚下去踢他，他也没有停下来看看自己的愿望是否实现了，就飞快的跑开了。我很奇怪的看着这个孩子是如此自如的恢复，执意于他的意志，换马鞍，还有其他的一切，然后在进入房间之前，坐在一堆干草上平息刚才的重拳产生的影响。我很容易的就说服他说擦伤是马弄出来的。他并不在乎故事是怎么讲的，因为他已经得到了他想要的东西。他很少抱怨，真的，像这样的事情，我也不认为是他在报复。我被完全欺骗了，等会你就会听到了。
+</br>
+重点单词</br>
+indulgencen. 沉溺，放纵，嗜好 n. 【宗】(天主教)特赦;豁免</br>
+dotevi. 昏愦，溺爱</br>
+pleadv. 辩护，恳求，提出借口</br>
+fell动词fall的过去式 n. 兽皮 vt. 砍伐，击倒 a</br>
+vainadj. 徒劳的，无效的，自负的，虚荣的</br>
+hardnessn. 坚硬，困难，严厉</br>
+preciousadj. 宝贵的，珍贵的，矫揉造作的 adv. 极其地</br>
+perpetualadj. 永恒的，永久的，一再往复的</br>
+tendv. 趋向，易于，照料，护理</br>
+restoredadj. 精力充沛的；精力恢复的 v</br>
+</br>
+</br>
+<h1>名著《呼啸山庄》中英文对照翻译 第23篇</h1>
+日期:2008-09-21 21:24
+(单词翻译:单击)
+
+In the course of time Mr. Earnshaw began to fail. He had been active and healthy, yet his strength left him suddenly; and when he was confined to the chimney-corner he grew grievously irritable. A nothing vexed him; and suspected slights of his authority nearly threw him into fits. This was especially to be remarked if any one attempted to impose upon, or domineer over, his favourite: he was painfully jealous lest a word should be spoken amiss to him; seeming to have got into his head the notion that, because he liked Heathcliff, all hated, and longed to do him an ill-turn. It was a disadvantage to the lad; for the kinder among us did not wish to fret the master, so we humoured his partiality; and that humouring was rich nourishment to the child's pride and black tempers. Still it became in a manner necessary; twice, or thrice, Hindley's manifestation of scorn, while his father was near, roused the old man to a fury: he seized his stick to strike him, and shook with rage that he could not do it.
+
+* humour – [verb] to agree with sb’s wishes, even if they seem unreasonable, in order to keep the person happy: She thought it best to humour him rather than get into an argument.
+
+恩肖先生日益老去。他曾经活跃，曾经健康，然而气力仿佛突然弃他而去。当他的只能在烟筒旁的角落活动时，他变得极为暴躁，让人非常担忧。无关紧要的事也让他感到烦心，如若稍有置疑他的权威，他就会发作一气。尤其是在有人试图诬陷或欺负他心爱的（希斯克利夫）时，这点就表现得特别突出。他的嫉妒心理已经几近扭曲，见不得别人说他（希斯克利夫）不对，仿佛有个理念已经在他头脑中根深蒂固，那就是因为他喜欢希斯克利夫，所以所有得人都恨他（希斯克利夫），都想哪天损上他（希斯克利夫）一把。这对那孩子（希斯克利夫）是不利的。因为像我们这样的人不愿意惹怒主任，所以我们就顺着他的意愿，而这种顺从也是助长这个孩子骄傲和坏脾气的主要养料。有两三次，在父亲旁边，欣德利嘲笑（希斯克利夫），而使得老人家火冒三丈，抓起拐棍就要揍他，由于没有打着老人气得浑身颤抖。
+
+At last, our curate (we had a curate then who made the living answer by teaching the little Lintons and Earnshaws, and farming his bit of land himself) advised that the young man should be sent to college; and Mr. Earnshaw agreed, though with a heavy spirit, for he said - 'Hindley was nought, and would never thrive as where he wandered.'
+
+最后，我们的教区牧师 （我们有一个靠教小林顿们和小恩肖们维持生计，并自己耕种一点土地。）建议让小伙子去上大学，虽然恩肖先生同意了，但是他并情愿，因为他说，“欣德利是没有什么用的，也不可能成就他的黄粱美梦的。”
+
+I hoped heartily we should have peace now. It hurt me to think the master should be made uncomfortable by his own good deed. I fancied the discontent of age and disease arose from his family disagreements; as he would have it that it did: really, you know, sir, it was in his sinking frame. We might have got on tolerably, notwithstanding, but for two people - Miss Cathy, and Joseph, the servant: you saw him, I daresay, up yonder. He was, and is yet most likely, the wearisomest self-righteous Pharisee that ever ransacked a Bible to rake the promises to himself and fling the curses to his neighbours. By his knack of sermonising and pious discoursing, he contrived to make a great impression on Mr. Earnshaw; and the more feeble the master became, the more influence he gained.
+
+我真心希望以后可以过平静的日子。想想老主人落得个好心没好报的下场，让我感到难过。我猜是对年龄的不满和家庭不合的不安；而他也得承认就是如此。真的，先生，他那时已经日益衰老。尽管我们的处得还算过得去，但是有两个人——凯西小姐和约瑟夫，那个仆人，你见过的，我敢说要好很多。他（约瑟夫）就像是最乏味的自以为是的法利赛人，翻来覆去的查看一本圣经，搜寻所有对自己有利的咒语，却把诅咒丢给他的旁边的人们，现在还是这副样子。由于他精通布道，还有会虔诚的讲道，他成功的给恩肖先生留下了及好的印象，而起主人越是虚弱，他的影响力也就越大。
+
+
+He was relentless in worrying him about his soul's concerns, and about ruling his children rigidly. He encouraged him to regard Hindley as a reprobate; and, night after night, he regularly grumbled out a long string of tales against Heathcliff and Catherine: always minding to flatter Earnshaw's weakness by heaping the heaviest blame on the latter.
+</br>
+他总是让主人担心自己的灵魂所在，担心对的孩子管教过严。他鼓励主人将欣德利当成是被上帝摒弃的人，而且，一天一天的，他嘀咕了不少诋毁希斯克利夫和凯瑟琳的事，考虑到恩肖的脾气，他总是把最重的责备加在后者的头上。
+
+
+Certainly, she had ways with her such as I never saw a child take up before; and she put all of us past our patience fifty times and oftener in a day: from the hour she came down-stairs till the hour she went to bed, we had not a minute's security that she wouldn't be in mischief. Her spirits were always at high-water mark, her tongue always going - singing, laughing, and plaguing everybody who would not do the same. A wild, wicked slip she was - but she had the bonniest eye, the sweetest smile, and lightest foot in the parish: and, after all, I believe she meant no harm; for when once she made you cry in good earnest, it seldom happened that she would not keep you company, and oblige you to be quiet that you might comfort her. She was much too fond of Heathcliff. The greatest punishment we could invent for her was to keep her separate from him: yet she got chided more than any of us on his account. In play, she liked exceedingly to act the little mistress; using her hands freely, and commanding her companions: she did so to me, but I would not bear slapping and ordering; and so I let her know.
+</br>
+当然，她总是那副样子，我从来没有见那个孩子这样。常常在一天之内，从她下楼到她上床睡觉，她总要把所有的人惹火无数次。我们没有办法让她有一分钟不淘气的。她的总是处于兴奋状态，她的小嘴总是在——唱歌，笑，还有就是骚扰那些不跟她一道的人。她是一个野性的，淘气的孩子，但是她有最漂亮的眼睛，最甜的微笑，当地最轻盈的脚步。而起，我最终相信，她是没有坏心眼的，因为每次她真的把你惹恼了，她很少会跑开，使得你不得不安静下来去安慰她。她非常喜欢希斯克利夫。我们能施于她最大的惩罚莫过于把她和他分开，因为他的原因，她挨的骂比我们都多。弯游戏的时候，她特别喜欢扮演小女主人，肆无忌惮地指挥她的玩伴们，她对我也这样做过，但是我受不了她的猛打和命令，所以我告诉了她。
+</br>
+
+重点单词</br>
+piousadj. 虔诚的，尽责的，值得的</br>
+partialityn. 偏袒，偏心，癖好</br>
+slipv. 滑倒，溜走，疏忽，滑脱 n. 滑倒，溜走，疏忽，失</br>
+contrivedadj. 人为的，做作的 动词contrive的过去式和</br>
+patiencen. 耐心，忍耐，毅力 n. 单人玩的牌戏</br>
+priden. 自豪，骄傲，引以自豪的东西，自尊心 vt. 以 .</br>
+framen. 框，结构，骨架 v. 构成，把 ... 框起来，陷</br>
+weaknessn. 软弱</br>
+feebleadj. 虚弱的，无力的</br>
+deedn. 事迹，行为，[法]契约 vt. 立</br>
+</br>
+<h1>名著《呼啸山庄》中英文对照翻译 第24篇</h1>
+日期:2008-09-21 21:26
+(单词翻译:单击)
+
+Now, Mr. Earnshaw did not understand jokes from his children: he had always been strict and grave with them; and Catherine, on her part, had no idea why her father should be crosser and less patient in his ailing condition than he was in his prime. His peevish reproofs wakened in her a naughty delight to provoke him: she was never so happy as when we were all scolding her at once, and she defying us with her bold, saucy look, and her ready words; turning Joseph's religious curses into ridicule, baiting me, and doing just what her father hated most - showing how her pretended insolence, which he thought real, had more power over Heathcliff than his kindness: how the boy would do HER bidding in anything, and HIS only when it suited his own inclination. After behaving as badly as possible all day, she sometimes came fondling to make it up at night. 'Nay, Cathy,' the old man would say, 'I cannot love thee, thou'rt worse than thy brother. Go, say thy prayers, child, and ask God's pardon. I doubt thy mother and I must rue that we ever reared thee!' That made her cry, at first; and then being repulsed continually hardened her, and she laughed if I told her to say she was sorry for her faults, and beg to be forgiven.
+</br>
+现在，恩肖先生已经无法理解儿女们的玩笑，而且他对他们总是非常严厉，也没有什么好脸色。而凯瑟琳也无法理解父亲生病之后变得越来越乖戾，越来越缺乏耐心，他年轻时的状态已经荡然无存。每当她淘气的逗他时，他都会愤愤的骂她。她最高兴的时候莫过于我们所有的人一起指责她，而她回之以调皮的漂亮眼神和早有准备的辩解；她把约瑟夫的教会诅咒当成是笑话，咬我，还有就是做她父亲最讨厌的事情——让他看见她假装的傲慢（他不知道是假装的）比他的仁慈对他（希斯克利夫）更有影响力：对于她，希斯克利夫总是有求必应，而对于他，希斯克利夫则只自己高兴做的。一天到头坏够了，有时候晚上她会主动言和的。“不，凯西，”老人家说，“我是不能爱你的。你比你哥哥还要差劲儿。去祷告吧，孩子，请求神的宽恕。我想我何你妈妈是不是养错你了。”起初，她会为这些话哭，后来被拒绝慢慢的让她更加倔强。如果我让她为犯下的错误道歉，请求原谅，她则会大笑。
+
+
+But the hour came, at last, that ended Mr. Earnshaw's troubles on earth. He died quietly in his chair one October evening, seated by the fire-side. A high wind blustered round the house, and roared in the chimney: it sounded wild and stormy, yet it was not cold, and we were all together - I, a little removed from the hearth, busy at my knitting, and Joseph reading his Bible near the table (for the servants generally sat in the house then, after their work was done). Miss Cathy had been sick, and that made her still; she leant against her father's knee, and Heathcliff was lying on the floor with his head in her lap. I remember the master, before he fell into a doze, stroking her bonny hair - it pleased him rarely to see her gentle - and saying, 'Why canst thou not always be a good lass, Cathy?' And she turned her face up to his, and laughed, and answered, 'Why cannot you always be a good man, father?' But as soon as she saw him vexed again, she kissed his hand, and said she would sing him to sleep. She began singing very low, till his fingers dropped from hers, and his head sank on his breast. Then I told her to hush, and not stir, for fear she should wake him. We all kept as mute as mice a full half-hour, and should have done so longer, only Joseph, having finished his chapter, got up and said that he must rouse the master for prayers and bed. He stepped forward, and called him by name, and touched his shoulder; but he would not move: so he took the candle and looked at him. I thought there was something wrong as he set down the light; and seizing the children each by an arm, whispered them to 'frame up- stairs, and make little din - they might pray alone that evening - he had summut to do.'
+
+***'frame up- stairs, and make little din - they might pray alone that evening - he had summut to do.' Which means “go upstairs, and make little noisy, they might pray alone that evening, he had something to do.”
+
+最终，结束恩肖先生所有尘世的恩怨的时候来了。一个十月的晚上，坐在火炉庞的椅子上，他静静闭上了眼睛。狂风围着屋子咆哮，在烟筒里怒号：听起来既野蛮又暴躁。但并不怎么冷，我们大家聚在一起。我在离壁炉稍远的地方织着我的东西，约瑟夫则在桌子旁边读着《圣经》（因为工人做完活后，那个时候都会坐在屋里）。凯西小姐病了，这让她安静下来。她靠在父亲的膝盖上，而希斯克利夫则枕着她的腿，躺在地上。我记得主人在打盹之前，抚摸着她的美丽的头发——看见她文静的样子他很高兴——他说，“为什么你不能永远都做一个好姑娘呢，凯西？”她仰脸迎着他的父亲，笑着回答，“你为什么不能永远是一个好人呢，父亲？”但是，一看见他又要动怒的样子，她说她可以唱歌给他听，知道他睡着。她开始轻轻的吟唱，直到他的手指从她的手中滑落，然后他的头搭拉到了胸前，我告诉她别出声，也别吵，因为担心她会把他吵醒。我们像老鼠一样静静的待了整整半个小时，我们本应该再待久一点，只是约瑟夫已经读完了一章，站起来说他得让主人起来做睡前祷告。他走向前去，叫他(老恩肖)的名字，并碰了碰他(老恩肖)的肩膀，但是他(老恩肖)一动不动。于是他拿起蜡烛去看他(老恩肖)。我想肯定是出什么事情了，因为他放下蜡烛，抓住两个孩子的胳膊，轻声对他们说，“到楼上去，晚上不要弄出什么声音，他们可以自己祷告，而他还有事情要做。”
+
+
+'I shall bid father good-night first,' said Catherine, putting her arms round his neck, before we could hinder her. The poor thing discovered her loss directly - she screamed out - 'Oh, he's dead, Heathcliff! he's dead!' And they both set up a heart-breaking cry.
+</br>
+“我要先跟父亲道晚安才是。”凯瑟琳说。我么还没有来得及拦住她，她已经用手环上了父亲的脖子。可怜的孩子亲自发现了自己的不幸，她尖叫出声，“噢！他死了。希斯克利夫！他死了！”然后，两个人开始放声痛哭。
+
+I joined my wail to theirs, loud and bitter; but Joseph asked what we could be thinking of to roar in that way over a saint in heaven. He told me to put on my cloak and run to Gimmerton for the doctor and the parson. I could not guess the use that either would be of, then. However, I went, through wind and rain, and brought one, the doctor, back with me; the other said he would come in the morning. Leaving Joseph to explain matters, I ran to the children's room: their door was ajar, I saw they had never lain down, though it was past midnight; but they were calmer, and did not need me to console them. The little souls were comforting each other with better thoughts than I could have hit on: no parson in the world ever pictured heaven so beautifully as they did, in their innocent talk; and, while I sobbed and listened, I could not help wishing we were all there safe together.
+</br>
+我也跟他们一起痛哭，大声的，痛苦的。但是约瑟夫责问我们到底在想什么，在一个进入天堂的圣徒面前哭嚎。他让我穿上斗篷去吉默吞请医生和牧师。我想不去请这两个人来有什么用，但是，我还是不顾风雨，带回来了一位医生。牧师说，他会在天亮后过来。把解说事情缘由的人物留给了约瑟夫，我跑向孩子们的房间。他们的们半掩着，我看见他们都还没有睡下，尽管已经过了午夜。但是他们都平静多了，也不需要我去安慰他们。小家伙们安慰彼此的方法比我想到过的都好：没有那个牧师能把天堂描绘得和他们天真无邪的谈话中的一样美丽，而呜咽着，静静的听着，情不自禁的祷告我们从此之后都平安无事。
+</br>
+
+重点单词
+understandvt. 理解，懂，听说，获悉，将 ... 理解为，认为</br>
+muten. 哑子，默音字母，弱音器 adj. 哑的，无声的，沉</br>
+peevishadj. 易怒的，暴躁的，撒娇的</br>
+ruen. 懊悔，芸香，后悔 v. 后悔，悲伤，懊悔</br>
+insolencen. 傲慢；傲慢无礼的行为</br>
+hushn. 肃静，安静，沉默 vi. 安静下来，掩饰 vt.</br>
+pardonn. 原谅，赦免 vt. 宽恕，原谅</br>
+ridiculen. 嘲笑，愚弄，笑柄 v. 嘲笑，嘲弄，愚弄</br>
+primeadj. 最初的，首要的，最好的，典型的 n. 青春，壮</br>
+touchedadj. 受感动的 adj. 精神失常的</br>
+</br>
+</br>
+<h1>名著《呼啸山庄》中英文对照翻译 第25篇</h1>
+日期:2008-09-21 21:29
+(单词翻译:单击)
+
+MR. HINDLEY came home to the funeral; and - a thing that amazed us, and set the neighbours gossiping right and left - he brought a wife with him. What she was, and where she was born, he never informed us: probably, she had neither money nor name to recommend her, or he would scarcely have kept the union from his father.
+
+欣德利先生回来参加葬礼，让我们都很奇怪的，也让邻居纷纷纷纷议论的是他竟然带回来了一个妻子。他从来都没有说起过：她是什么人，她是哪里人。很有可能，她既没有钱也没有什么名声，否则他不会把结婚的事情瞒着他父亲。
+
+She was not one that would have disturbed the house much on her own account. Every object she saw, the moment she crossed the threshold, appeared to delight her; and every circumstance that took place about her: except the preparing for the burial, and the presence of the mourners. I thought she was half silly, from her behaviour while that went on: she ran into her chamber, and made me come with her, though I should have been dressing the children: and there she sat shivering and clasping her hands, and asking repeatedly - 'Are they gone yet?' Then she began describing with hysterical emotion the effect it produced on her to see black; and started, and trembled, and, at last, fell a-weeping - and when I asked what was the matter, answered, she didn't know; but she felt so afraid of dying! I imagined her as little likely to die as myself. She was rather thin, but young, and fresh-complexioned, and her eyes sparkled as bright as diamonds. I did remark, to be sure, that mounting the stairs made her breathe very quick; that the least sudden noise set her all in a quiver, and that she coughed troublesomely sometimes: but I knew nothing of what these symptoms portended, and had no impulse to sympathise with her. We don't in general take to foreigners here, Mr. Lockwood, unless they take to us first.
+</br>
+她并没有为了自己而过多的扰乱这个房子。自她跨进大门以后，每件她看见的东西都让她到让她高兴，除了正在准备的葬礼和前来悼念的人们，仿佛所有的事情都是因她而发生。从她的举止看来，我觉得她有些傻：她跑进她的房间，并让我跟她去，其实我该给孩子们穿衣服。 在她的房间里，她颤巍巍的坐在那里，双手紧扣，一遍又一遍的问道，“他们走了吗？”然后，她开始歇斯底里的描述一看到黑色她就会出现的症状：惊恐，发抖，最后大哭。我问她原因，回答却是她不知道。但是她是如此的怕死。我觉得她会死的可能性和我一样小。她的确很瘦，但是很年轻，而且脸色很好，眼睛像宝石一样有闪闪发亮。我的确注意到，跑上楼来，让她的呼吸变得很快，还有就是突然冒出来的细微声响也会让她吓一跳，还有她有时候可得非常厉害。但是，我不知道这些症状意味着什么，所以没有同情她的念头。洛克·伍德先生，我们一般不会喜欢外地人，除非他们先喜欢我们。
+
+Young Earnshaw was altered considerably in the three years of his absence. He had grown sparer, and lost his colour, and spoke and dressed quite differently; and, on the very day of his return, he told Joseph and me we must thenceforth quarter ourselves in the back-kitchen, and leave the house for him. Indeed, he would have carpeted and papered a small spare room for a parlour; but his wife expressed such pleasure at the white floor and huge glowing fireplace, at the pewter dishes and delf-case, and dog-kennel, and the wide space there was to move about in where they usually sat, that he thought it unnecessary to her comfort, and so dropped the intention.
+</br>
+在离开的三年里，小恩肖的改变非常大。他现在又高又瘦，气色也不如以前，衣着和言谈都和以前不一样了。回来的当天，他就告诉我和约瑟夫，从此之后我们必须呆在厨房的后半截，而把房间留给他。其实，他只需要一个铺了地毯，贴了壁纸的小房间来作为起居室。但是他的妻子表示她非常喜欢那白色的地板、熊熊燃烧的壁炉、白镴餐具、代夫特陶器、小狗屋，还有在他们通常坐着休息得地方有较宽敞的活动范围，这些比起她的舒适来将算不上什么，所以他决定这样做。
+
+She expressed pleasure, too, at finding a sister among her new acquaintance; and she prattled to Catherine, and kissed her, and ran about with her, and gave her quantities of presents, at the beginning. Her affection tired very soon, however, and when she grew peevish, Hindley became tyrannical. A few words from her, evincing a dislike to Heathcliff, were enough to rouse in him all his old hatred of the boy. He drove him from their company to the servants, deprived him of the instructions of the curate, and insisted that he should labour out of doors instead; compelling him to do so as hard as any other lad on the farm.
+</br>
+当她发现新认识的人中有一个妹妹，她也表示非常开心。一开始，她和凯瑟琳聊天，亲她，和她追跑，还给了她很多礼物。但是她的热情很快就褪去了。她变得越来越暴怒，欣德利则越来越暴力。只要她说几个不喜欢希斯克利夫的词，就足以唤起欣德利对他（希斯克利夫）的所有旧恨。他把他（希斯克利夫）从他们的队伍中驱逐到仆人中，让他得不到牧师得指导，坚持他到户外劳作，迫使他干和其他农场上的小伙子一样重的活。
+
+Heathcliff bore his degradation pretty well at first, because Cathy taught him what she learnt, and worked or played with him in the fields. They both promised fair to grow up as rude as savages; the young master being entirely negligent how they behaved, and what they did, so they kept clear of him. He would not even have seen after their going to church on Sundays, only Joseph and the curate reprimanded his carelessness when they absented themselves; and that reminded him to order Heathcliff a flogging, and Catherine a fast from dinner or supper. But it was one of their chief amusements to run away to the moors in the morning and remain there all day, and the after punishment grew a mere thing to laugh at. The curate might set as many chapters as he pleased for Catherine to get by heart, and Joseph might thrash Heathcliff till his arm ached; they forgot everything the minute they were together again: at least the minute they had contrived some naughty plan of revenge; and many a time I've cried to myself to watch them growing more reckless daily, and I not daring to speak a syllable, for fear of losing the small power I still retained over the unfriended creatures. One Sunday evening, it chanced that they were banished from the sitting-room, for making a noise, or a light offence of the kind; and when I went to call them to supper, I could discover them nowhere. We searched the house, above and below, and the yard and stables; they were invisible: and, at last, Hindley in a passion told us to bolt the doors, and swore nobody should let them in that night. The household went to bed; and I, too, anxious to lie down, opened my lattice and put my head out to hearken, though it rained: determined to admit them in spite of the prohibition, should they return. In a while, I distinguished steps coming up the road, and the light of a lantern glimmered through the gate. I threw a shawl over my head and ran to prevent them from waking Mr. Earnshaw by knocking. There was Heathcliff, by himself: it gave me a start to see him alone.
+</br>
+一开始，希斯克利夫对被降级的处理还能承受，因为凯西把自己会的教给他，并陪他一起在田地里干活和玩耍。他们宣称要响原始人那样野蛮的长大。新主人根本不知道他们怎么做的，他们做了什么，所以他们不让他知道。他甚至也不没有顾及他们星期天是否有去教堂，只有在约瑟夫和牧师因为孩子们的缺席而斥责他的粗心时，他才会想起鞭打希斯克利夫一顿，而凯西则禁食晚餐和夜宵。但是他们主要的消遣就是早上溜到荒野去，然后一整天都呆在那里，而稍后的惩罚也只是笑料而已。牧师有可能随自己乐意安排凯西背很多章节，而约瑟夫则有可能鞭打希斯克利夫到自己手疼为止，但是只要他们一到一起，他们就又把所有的事情抛在脑后：至少他们进行那些淘气的报复计划的时候是这样的。很多次，看见他们日益鲁莽，我都忍不住责备自己，但是我不敢说一个字因为我不愿意失去自己对这对没有朋友的家伙的小小影响力。一个星期天的晚上，凑巧他们被从起居室里赶了出来，因为他们很吵，或是类似的错误。当我去找他们吃夜宵的时候，我怎么也找不到他们。我们找遍了整个屋子，楼上楼下，院子里，羊圈里，都没有人影。最后，欣德利气急的要我们把门闩起来，命令任何人不得放他们进来。所有的下人都睡觉去了，而我担心的睡不下去，于是，我打开我的窗格，尽管下着雨，我还是把头伸到外面注意地听着，决心不顾禁令也要把他们放进来，只要他们回来。不一会，我听讲路那头传来了脚步声，然后看见门外灯笼的亮光一闪一闪的。我批上围巾，跑下去阻止他们敲门吵醒恩肖先生。但是，只看见希斯克利夫一个人，看见他独自一人让我吓了一跳。
+
+
+重点单词</br>
+impulsen. 冲动，驱动力，倾向，心血来潮 vt. 推动</br>
+quiverv. 颤抖，振动 n. 震动，颤抖，箭袋，箭袋内的箭</br>
+circumstancen. 环境，(复数)境况，事件，详情</br>
+determinedadj. 坚毅的，下定决心的</br>
+fell动词fall的过去式 n. 兽皮 vt. 砍伐，击倒 a</br>
+revengen. 报仇，报复，复仇愿望，获得满足的机会 vt. 报仇</br>
+presencen. 出席，到场，存在 n. 仪态，风度</br>
+negligentadj. 疏忽的，粗心的，不在意的</br>
+unnecessaryadj. 不必要的，多余的</br>
+affectionn. 慈爱，喜爱，感情，影响</br>
+</br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第27篇</h1>
+日期:2008-09-21 21:33
+(单词翻译:单击)
+
+'While they examined me, Cathy came round; she heard the last speech, and laughed. Edgar Linton, after an inquisitive stare, collected sufficient wit to recognise her. They see us at church, you know, though we seldom meet them elsewhere. "That's Miss Earnshaw?" he whispered to his mother, "and look how Skulker has bitten her - how her foot bleeds!"
+</br>
+“在他们审视我的时候，凯西走了过来。听见他们说得哪些话，她大笑了起来。埃德加·林顿好奇的看了一会，终于明白过来她是谁了。尽管我们很少在其他的地反见到他们，但是我们在教堂见过。“她是恩肖小姐？”他轻声对他妈妈说，“瞧，斯库尔克（狗名）把她咬成什么样了，她的脚流血很厉害！”
+
+'"Miss Earnshaw? Nonsense!" cried the dame; "Miss Earnshaw scouring the country with a gipsy! And yet, my dear, the child is in mourning - surely it is - and she may be lamed for life!"
+</br>
+“恩肖小姐？胡说八道！”夫人失声叫了出来，“恩肖小姐和这样的流氓一起在荒野里乱跑！而起现在，噢，我的天，这个孩子还在戴孝，肯定是她了，她也许会落下跛脚！”
+
+'"What culpable carelessness in her brother!" exclaimed Mr. Linton, turning from me to Catherine. "I've understood from Shielders"' (that was the curate, sir) '"that he lets her grow up in absolute heathenism. But who is this? Where did she pick up this companion? Oho! I declare he is that strange acquisition my late neighbour made, in his journey to Liverpool - a little Lascar, or an American or Spanish castaway."
+
+“她哥哥真是太粗心了！”林顿先生谴责道，目光由我转向了凯西。“我从希尔德尔斯（是牧师,先生<*这句话应该是NELLY对洛克·伍德说德*>）那听说他任由她如异教徒一样的长大。但是这是谁呢？她在哪里找到这个同伴的？噢，我可以肯定他是我那已经去世的邻居在去利物浦的路上拣回来的家伙，是印度水手，或是美国人，或是西班牙人的弃儿。”
+
+'"A wicked boy, at all events," remarked the old lady, "and quite unfit for a decent house! Did you notice his language, Linton? I'm shocked that my children should have heard it."
+</br>
+“不管怎么说，他都是一个讨厌的孩子。”那个老太太说，“不配住在体面的房子里！你听见他的用词了吗，林顿？我很震惊我的孩子竟然听到了这些。”
+
+'I recommenced cursing - don't be angry, Nelly - and so Robert was ordered to take me off. I refused to go without Cathy; he dragged me into the garden, pushed the lantern into my hand, assured me that Mr. Earnshaw should be informed of my behaviour, and, bidding me march directly, secured the door again. The curtains were still looped up at one corner, and I resumed my station as spy; because, if Catherine had wished to return, I intended shattering their great glass panes to a million of fragments, unless they let her out. She sat on the sofa quietly. Mrs. Linton took off the grey cloak of the dairy-maid which we had borrowed for our excursion, shaking her head and expostulating with her, I suppose: she was a young lady, and they made a distinction between her treatment and mine. Then the woman-servant brought a basin of warm water, and washed her feet; and Mr. Linton mixed a tumbler of negus, and Isabella emptied a plateful of cakes into her lap, and Edgar stood gaping at a distance. Afterwards, they dried and combed her beautiful hair, and gave her a pair of enormous slippers, and wheeled her to the fire; and I left her, as merry as she could be, dividing her food between the little dog and Skulker, whose nose she pinched as he ate; and kindling a spark of spirit in the vacant blue eyes of the Lintons - a dim reflection from her own enchanting face. I saw they were full of stupid admiration; she is so immeasurably superior to them - to everybody on earth, is she not, Nelly?'
+
+“我重新开始了咒骂。别生气，雷莉。于是他们让罗伯特把我带走。我坚持要带上凯西，拒绝一个人离开。他把我拖到院子里，塞给我一只灯笼，并警告说，我所做的一切都会告知恩肖先生的，命令我立即上路，然后把门锁上了。窗帘的一个角上卷着，我又跑到那边偷偷往里看。如果凯西想回来而他们不让她出来的话，我就把他们这豪华大窗的玻璃砸成一百万块碎片。她安静地坐在沙发上。林顿太太一边帮她脱下了我们为远足从挤奶女工那借来的斗篷，一边摇着头告诫她。我猜，她是一个小孩，所以他们把她和我区别对待。然后，女仆端来了一盆热水，帮她把脚洗干净。林顿先生调了一杯尼格斯酒,伊莎贝拉往她手里塞了满满一盘的蛋糕，埃德加张着嘴远远的看着。最后，他们把她的美丽的头发弄干，梳理好，给她穿上了一双巨大的拖鞋，把她推到壁炉前。她把她的蛋糕分给小狗和斯库尔克，当斯库尔克吃的时候，她捏了它的鼻子，这一切让林顿们空洞的蓝眼睛中有了一些神采，可比她那迷人的脸庞还是显得暗淡无光。见她非常的开心，我就回来了。我看见他们一幅痴迷的样子，比起他们，比起世界上的任何人，她都是高一等。不是吗？雷莉？”
+
+'There will more come of this business than you reckon on,' I answered, covering him up and extinguishing the light. 'You are incurable, Heathcliff; and Mr. Hindley will have to proceed to extremities, see if he won't.' My words came truer than I desired. The luckless adventure made Earnshaw furious. And then Mr. Linton, to mend matters, paid us a visit himself on the morrow, and read the young master such a lecture on the road he guided his family, that he was stirred to look about him, in earnest. Heathcliff received no flogging, but he was told that the first word he spoke to Miss Catherine should ensure a dismissal; and Mrs. Earnshaw undertook to keep her sister-in-law in due restraint when she returned home; employing art, not force: with force she would have found it impossible.
+</br>
+“这件事不会如你所想的结束的。”我回答道，“你没治了，希斯克利夫。欣德利先生会用极刑的，走着瞧吧！”我的话应验得比我想象的还要厉害。那个不幸的孩子让恩肖先生发了狂。为了解释这件事情，林顿先生在次日亲自到我们山庄来了，给年轻的主人讲了他是如何领导他的家庭的，非常的真挚。希斯克利夫没有被鞭打，但是他被警告，如果他胆敢和凯瑟琳说一个字的话，他就会被解雇。她回来之后，恩肖太太对她的小姑子采取了适当的控制，艺术的，不是强制的，如果采取强制手段的话，她会发现完全没有用的。
+</br>
+
+重点单词</br>
+restraintn. 抑制，克制，束缚</br>
+sufficientadj. 足够的，充分的</br>
+carelessnessn. 粗心</br>
+culpableadj. 该责备的，有罪的</br>
+intendedadj. 故意的，有意的；打算中的 n. 已订婚者 v.</br>
+adventuren. 冒险，奇遇 vt. 冒险，尝试 vi. 大胆进行，</br>
+distinctionn. 差别，对比，区分，荣誉，优秀</br>
+informedadj. 见多识广的 v. 通告，告发 vbl. 通告，</br>
+proceedvi. 继续进行，开始，着手</br>
+spyn. 间谍，侦探，侦察 vt. 侦探</br>
+
+
+<h1>名著《呼啸山庄》中英文对照翻译 第28篇</h1>
+日期:2008-09-23 20:30
+(单词翻译:单击)
+
+CATHY stayed at Thrushcross Grange five weeks: till Christmas. By that time her ankle was thoroughly cured, and her manners much improved. The mistress visited her often in the interval, and commenced her plan of reform by trying to raise her self-respect with fine clothes and flattery, which she took readily; so that, instead of a wild, hatless little savage jumping into the house, and rushing to squeeze us all breathless, there 'lighted from a handsome black pony a very dignified person, with brown ringlets falling from the cover of a feathered beaver, and a long cloth habit, which she was obliged to hold up with both hands that she might sail in. Hindley lifted her from her horse, exclaiming delightedly, 'Why, Cathy, you are quite a beauty! I should scarcely have known you: you look like a lady now. Isabella Linton is not to be compared with her, is she, Frances?' 'Isabella has not her natural advantages,' replied his wife: 'but she must mind and not grow wild again here. Ellen, help Miss Catherine off with her things - Stay, dear, you will disarrange your curls - let me untie your hat.'
+</br>
+凯西在画眉山庄住了 5 周，直到圣诞节才回来。不仅她的脚伤痊愈了，她的举止也文雅多了。那期间，女主人常常去看她，并执行了她的改良计划——让凯西自尊地成长，给她漂亮的衣服，说些恭维的话，而对于这些凯西竟欣然接受了。就这样，凯西不再是那个不懂规矩，不带帽子的野孩子——蹦跳着进屋，冲过来紧紧地抱住我们，让我们透不过气来。凯西的回来，让我们眼前一亮：束着漂亮黑色马尾的高贵人儿，戴着带羽毛的海狸帽，棕色的卷发在帽下自然垂下，穿着一件长兔毛大衣，当她仪态万方的到来时，她不得不用双手合着她的大衣。欣德利把她从马上抱下来，高兴的说道：“哎呀，凯西，你真是个美人啊！我几乎都不认识你了。你现在看起来是个淑女了。伊莎贝拉·林顿都根本没法和她比，是吧？弗郎西丝？”“伊莎贝拉不具有她的天生丽质。”他的妻子回答道，“但是她必须得注意，可不能在这再变回不守规矩的野孩子。艾伦，帮凯瑟琳小姐把外套脱下来。别动，宝贝，你会把发卷弄乱的。让我帮你把帽子脱下来。”
+
+I removed the habit, and there shone forth beneath a grand plaid silk frock, white trousers, and burnished shoes; and, while her eyes sparkled joyfully when the dogs came bounding up to welcome her, she dared hardly touch them lest they should fawn upon her splendid garments. She kissed me gently: I was all flour making the Christmas cake, and it would not have done to give me a hug; and then she looked round for Heathcliff. Mr. and Mrs. Earnshaw watched anxiously their meeting; thinking it would enable them to judge, in some measure, what grounds they had for hoping to succeed in separating the two friends.
+</br>
+我帮她脱下了兔毛大衣，华丽的真丝格子长裙、白色的裤子和亮得逼人眼的鞋子，让人觉得眼前一亮。小狗扑上来迎接她，尽管她眼里闪烁着快乐的光芒，却不敢去碰它们，唯恐它们的爪子碰到她那华美的衣服。她很温柔的亲了我一下，因为我为了做圣诞蛋糕弄得满身的面粉，所以也就不可能给我一个拥抱了。然后，她开始寻找希斯克利夫。恩肖夫妇很紧张的看着他们的重逢，因为这在一定程度上可以判定：他们将这对朋友分开到底取得了多达的成功。
+
+Heathcliff was hard to discover, at first. If he were careless, and uncared for, before Catherine's absence, he had been ten times more so since. Nobody but I even did him the kindness to call him a dirty boy, and bid him wash himself, once a week; and children of his age seldom have a natural pleasure in soap and water. Therefore, not to mention his clothes, which had seen three months' service in mire and dust, and his thick uncombed hair, the surface of his face and hands was dismally beclouded. He might well skulk behind the settle, on beholding such a bright, graceful damsel enter the house, instead of a rough-headed counterpart of himself, as he expected. 'Is Heathcliff not here?' she demanded, pulling off her gloves, and displaying fingers wonderfully whitened with doing nothing and staying indoors.
+</br>
+一开始，怎么也找不到希斯克利夫。如果在凯西离开之后，他自己不打理，也没有人管他的话样子足足有甚于以前的十倍。除了我每个星期还好心的提醒他是个脏孩子，要求他洗洗手，就没人理会他了。而且，像他那个年纪的孩子就没有几个天生喜欢肥皂和水的。所以，就甭提他的衣服了，三个月来一直在灰尘和泥泞中打滚，还有就是他那厚厚的从来不梳理的头发，他的脸和手都覆盖上了一层厚厚的黑云。看到走进屋来的不是他所想的和他一样顽固的伙伴，而是一个如此明亮、高雅的淑女，他可能很好地藏在角落里。“希斯克利夫不在这里吗？”她问道，一边脱下手套，露出无比白皙的手指，这都是因为呆屋里什么都不做的结果。
+
+'Heathcliff, you may come forward,' cried Mr. Hindley, enjoying his discomfiture, and gratified to see what a forbidding young blackguard he would be compelled to present himself. 'You may come and wish Miss Catherine welcome, like the other servants.'
+</br>
+“希斯克利夫，你可以到前面来。”欣德利先生喊到，他非常享受看着希斯克利夫的窘迫，也很想看着这个难以亲近的小流氓将如何表现自己。“你可以过来欢迎凯瑟琳小姐，就像其他的仆人那样。”
+
+Cathy, catching a glimpse of her friend in his concealment, flew to embrace him; she bestowed seven or eight kisses on his cheek within the second, and then stopped, and drawing back, burst into a laugh, exclaiming, 'Why, how very black and cross you look! and how - how funny and grim! But that's because I'm used to Edgar and Isabella Linton. Well, Heathcliff, have you forgotten me?'
+</br>
+凯西瞥见了她的朋友躲在那里，她飞跑过去拥抱他，顷刻间在他的脸颊上落下了七八个吻，突然她停下来，然后退让开，突然大笑了起来，说道，“哎呀，你看起来多黑多潦倒啊！又好笑，又冷酷！但这是我习惯了埃德加和伊莎贝拉的缘故。那，希斯克利夫，你忘记我了吗？”
+
+She had some reason to put the question, for shame and pride threw double gloom over his countenance, and kept him immovable.
+</br>
+她有理由问这样的问题，出于羞愧和骄傲，她把一双手套扔到可他的脸上，但是抓着他不放。
+
+
+'Shake hands, Heathcliff,' said Mr. Earnshaw, condescendingly; 'once in a way, that is permitted.'
+</br>
+“握握手，希斯克利夫，”恩肖先生温和地说，“偶尔允许这样做。”
+
+'I shall not,' replied the boy, finding his tongue at last; 'I shall not stand to be laughed at. I shall not bear it!' And he would have broken from the circle, but Miss Cathy seized him again.
+</br>
+“我不要，”那孩子终于说话了，“我要站在这里被嘲笑。我也无须忍受这些！”他本要冲出人群，但是凯西小姐又抓住了他。
+
+I did not mean to laugh at you,' she said; 'I could not hinder myself: Heathcliff, shake hands at least! What are you sulky for? It was only that you looked odd. If you wash your face and brush your hair, it will be all right: but you are so dirty!'
+</br>
+“我没有要嘲笑你的意思，”她说，“我没有忍住。希斯克利夫，至少握握手吧！你生的什么气啊？只是你看起来比较怪怪的，如果你洗洗脸，梳梳头发，就会好了。但是你现在真脏！”
+
+She gazed concernedly at the dusky fingers she held in her own, and also at her dress; which she feared had gained no embellishment from its contact with his.
+</br>
+她担心的看着她握着的满是灰层的手，还有她的裙子，担心和他的接触会弄脏裙子。
+
+'You needn't have touched me!' he answered, following her eye and snatching away his hand. 'I shall be as dirty as I please: and I like to be dirty, and I will be dirty.'
+</br>
+“你可以不碰握的！”瞧着她的目光，他抽回了手，并回答道，“我愿意多脏，我就多脏。我喜欢脏脏的，我就要脏脏的。”
+
+With that he dashed headforemost out of the room, amid the merriment of the master and mistress, and to the serious disturbance of Catherine; who could not comprehend how her remarks should have produced such an exhibition of bad temper.
+</br>
+说罢，头也不回的冲了出去。见此，主人和女主人非常高兴，而凯西感到非常的不安。她无法理解为什么她的话会让他发这么大的脾气。
+
+After playing lady's-maid to the new-comer, and putting my cakes in the oven, and making the house and kitchen cheerful with great fires, befitting Christmas-eve, I prepared to sit down and amuse myself by singing carols, all alone; regardless of Joseph's affirmations that he considered the merry tunes I chose as next door to songs. He had retired to private prayer in his chamber, and Mr. and Mrs. Earnshaw were engaging Missy's attention by sundry gay trifles bought for her to present to the little Lintons, as an acknowledgment of their kindness. They had invited them to spend the morrow at Wuthering Heights, and the invitation had been accepted, on one condition: Mrs. Linton begged that her darlings might be kept carefully apart from that 'naughty swearing boy.'
+</br>
+在外面扮演完小姐 - 仆人，把蛋糕放到烤炉里，把屋子和厨房里的火生好，让这一切都适合圣诞前夜，我准备坐下来，唱颂歌自娱，就一个人，也不理会约瑟夫说我选的这些颂歌都算不上歌的话。他回自己的房间做祷告，而恩肖夫妇则和凯西讨论买些什么零碎的东西让她送给小林顿们，作为礼物答谢他们好心。他们已经邀请了林顿一家次日到呼啸山庄做客，而林顿也接受了邀请，但是林顿太太提出他们的宝贝须细心照顾，不能和那个“骂骂咧咧的淘气小子”接触。
+
+Under these circumstances I remained solitary. I smelt the rich scent of the heating spices; and admired the shining kitchen utensils, the polished clock, decked in holly, the silver mugs ranged on a tray ready to be filled with mulled ale for supper; and above all, the speckless purity of my particular care - the scoured and well-swept floor. I gave due inward applause to every object, and then I remembered how old Earnshaw used to come in when all was tidied, and call me a cant lass, and slip a shilling into my hand as a Christmas-box; and from that I went on to think of his fondness for Heathcliff, and his dread lest he should suffer neglect after death had removed him: and that naturally led me to consider the poor lad's situation now, and from singing I changed my mind to crying. It struck me soon, however, there would be more sense in endeavouring to repair some of his wrongs than shedding tears over them: I got up and walked into the court to seek him. He was not far; I found him smoothing the glossy coat of the new pony in the stable, and feeding the other beasts, according to custom.
+</br>
+对于这些，我保持静默。从融化的香料中我问道了浓郁的问道，欣赏着闪闪发光的厨具，擦亮了的钟，节日的装饰，整齐排列在碟子里的银杯子（晚餐的时候会在里面倒满热热的麦酒），尤其是我精心洗擦过的光洁无暇的地板。我在心里为这一切鼓掌，不由得想起了当所有的东西都整理好后，老恩肖走进来的样子，他会夸奖我是个能干的姑娘，还会放一个先令到我的手里，当作是圣诞礼物。想到这，不禁想到他有多喜欢希斯克利夫，还有他担心希斯克利夫在他去世后会受到虐待的恐慌，原本还在唱歌的我，突然想哭了。然而，很快我就明白过来，与其为他们流泪，不如帮他改掉一些坏毛病。我站起身来，到院子里去找希斯克利夫。他在不远的地方，我看见他在为马厮里给小马驹梳毛，给其他的牲口喂料，都是按照要求做的。
+</br>
+重点单词</br>
+circlen. 圈子，圆周，循环 v. 环绕，盘旋，包围</br>
+comprehendvt. 充分理解，包括</br>
+dreadn. 恐惧，可怕的人，可怕的事 adj. 可怕的，可怖的</br>
+amusev. 消遣，娱乐，使 ... 发笑</br>
+forbiddingadj. 可怕的，令人难亲近的 动词forbid的现在分</br>
+soapn. 肥皂 vt. 用肥皂洗，阿谀奉承</br>
+stableadj. 稳定的，安定的，可靠的 n. 马厩，马棚，一批</br>
+burstn. 破裂，阵，爆发 v. 爆裂，迸发</br>
+scentn. 气味，香味，痕迹 vt. 闻出，发觉，使充满味道，</br>
+intervaln. 间隔，休息时间，(数学)区间</br>
+</br>
+</br>
+<h1>名著《呼啸山庄》中英文对照翻译 第29篇</h1>
+日期:2008-09-23 20:32
+(单词翻译:单击)
+
+'Make haste, Heathcliff!' I said, 'the kitchen is so comfortable; and Joseph is up-stairs: make haste, and let me dress you smart before Miss Cathy comes out, and then you can sit together, with the whole hearth to yourselves, and have a long chatter till bedtime.'
+
+“动作快点，希斯克利夫！”我说，“厨房里非常得舒服，而且约瑟夫已经上楼去了。快点过来。我好在凯西小姐下来之前帮你打扮一下，这样你们就可以坐在一起，烤着炉火，好好聊聊，一直到睡觉时间。”
+
+He proceeded with his task, and never turned his head towards me. 'Come - are you coming?' I continued. 'There's a little cake for each of you, nearly enough; and you'll need half-an-hour's donning.'
+
+他继续干着活，甚至连头都没有向我这边偏一下。“来吧。你会来吗？”我继续说道，“还给你们每个人准备了一小块蛋糕，基本上是够了。你至少需要半个小时整理自己。”
+
+I waited five minutes, but getting no answer left him. Catherine supped with her brother and sister-in-law: Joseph and I joined at an unsociable meal, seasoned with reproofs on one side and sauciness on the other. His cake and cheese remained on the table all night for the fairies. He managed to continue work till nine o'clock, and then marched dumb and dour to his chamber. Cathy sat up late, having a world of things to order for the reception of her new friends: she came into the kitchen once to speak to her old one; but he was gone, and she only stayed to ask what was the matter with him, and then went back. In the morning he rose early; and, as it was a holiday, carried his ill-humour on to the moors; not re-appearing till the family were departed for church. Fasting and reflection seemed to have brought him to a better spirit. He hung about me for a while, and having screwed up his courage, exclaimed abruptly - 'Nelly, make me decent, I'm going to be good.'
+
+我等了 5 分钟，他也没有回话，我只好离开。凯瑟琳和她得兄嫂共进晚餐；约瑟夫和我一起吃了顿不怎么和气的晚餐，一个不断的责备，另一个则是的鲁莽，这已经是常事了。他的蛋糕整个晚上都放在桌上，供奉着神仙。他坚持干活到晚上 9 点，然后一言不发，沉着脸直接回房间去了。凯西待到很晚，忙于指挥大家为迎接她的新朋友做准备，其间她到厨房来过，想和她的老朋友说话，但是他却早走了，她只能不停问他到底是怎么了，然后也就回去了。早上他起得特别早，因为今天放假，所以他带着他得坏心情到野地里去了，直到所有得人都去教堂了，他才回来。禁食和反省好像让他感觉好了些。他拥抱了我一会，然后鼓足勇气，非常突然的说道，“雷莉，把我打扮得体面点，我要做个好孩子。”
+
+'High time, Heathcliff,' I said; 'you HAVE grieved Catherine: she's sorry she ever came home, I daresay! It looks as if you envied her, because she is more thought of than you.'
+
+“早该这样了，希斯克利夫！”我说，“你让凯瑟琳伤心了：她为她回家感到难过了！看起来你似乎嫉妒她，因为她比你更有想法。”
+
+The notion of ENVYING Catherine was incomprehensible to him, but the notion of grieving her he understood clearly enough.
+
+嫉妒凯瑟琳的说法他不太理解，但是说道凯瑟琳伤心，他却非常清楚。
+
+'Did she say she was grieved?' he inquired, looking very serious.
+
+“是她说她伤心了吗？”他问道，表情非常的认真。
+
+'She cried when I told her you were off again this morning.'
+
+“当我告诉她，你今天早上又跑掉了，她哭了。”
+
+'Well, I cried last night,' he returned, 'and I had more reason to cry than she.'
+
+“哦，我昨天晚上就哭了。”他回答道，“而且，我比她更有哭的理由。”
+
+'Yes: you had the reason of going to bed with a proud heart and an empty stomach,' said I. 'Proud people breed sad sorrows for themselves. But, if you be ashamed of your touchiness, you must ask pardon, mind, when she comes in. You must go up and offer to kiss her, and say - you know best what to say; only do it heartily, and not as if you thought her converted into a stranger by her grand dress. And now, though I have dinner to get ready, I'll steal time to arrange you so that Edgar Linton shall look quite a doll beside you: and that he does. You are younger, and yet, I'll be bound, you are taller and twice as broad across the shoulders; you could knock him down in a twinkling; don't you feel that you could?'
+
+“是的，你有理由高傲得不吃饭就睡觉。”我说，“高傲的人容易滋生愁绪。但是，如果你为自己的不知好歹感到难为情的话，你得去道歉。记住，她进来的时候，你一定要走上去，亲亲她，然后说——，你最清楚你该说什么了。只要用心做就可以了。不要以为她穿上了高贵的裙子，就变成了陌生人了。现在，虽然我需要准备晚餐，但是我还有时间来帮你整理，这样埃德加和你比起来就像个洋娃娃了，而且的确如此。你比他小一些，但是，我得快点，你比他高，肩宽是他得两倍，只要你弯弯手指头，就可以把他打倒在地。难道你不觉得你可以吗？”
+
+Heathcliff's face brightened a moment; then it was overcast afresh, and he sighed.
+
+希斯克利夫得脸色明朗了一会，但是很快又阴了下来，他叹了口气。
+</br>
+重点单词</br>
+chattern. 饶舌，啁啾，喋喋不休地谈，(小溪的)潺潺流水声，(</br>
+reflectionn. 反映，映像，折射，沉思，影响</br>
+abruptlyadv. 突然地，莽撞地，陡峭地，不连贯地</br>
+minutesn. 会议记录，(复数)分钟</br>
+pardonn. 原谅，赦免 vt. 宽恕，原谅</br>
+kitchenn. 厨房，(全套)炊具，灶间</br>
+arrangevt. 安排，整理，计划，改编(乐曲) vi. 协商，计</br>
+smartadj. 聪明的，时髦的，漂亮的，敏捷的，轻快的，整洁的</br>
+hasten. 急速，急忙 v. 匆忙，赶快 vi. 赶紧，赶快</br>
+decentadj. 体面的，正派的，得体的，</br>
+</br>
+</br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第30篇</h1>
+日期:2008-09-23 20:36
+(单词翻译:单击)
+
+In the evening we had a dance. Cathy begged that he might be liberated then, as Isabella Linton had no partner: her entreaties were vain, and I was appointed to supply the deficiency. We got rid of all gloom in the excitement of the exercise, and our pleasure was increased by the arrival of the Gimmerton band, mustering fifteen strong: a trumpet, a trombone, clarionets, bassoons, French horns, and a bass viol, besides singers. They go the rounds of all the respectable houses, and receive contributions every Christmas, and we esteemed it a first-rate treat to hear them. After the usual carols had been sung, we set them to songs and glees. Mrs. Earnshaw loved the music, and so they gave us plenty.
+</br>
+晚上，我们举行了舞会。凯西请求把他放出来，因为伊莎贝拉·林顿没有舞伴，但是她的努力没有什么作用，而我则被叫去填补了那个空缺。劳作的郁闷被这个令人令人兴奋的消息驱散了，更让我们高兴的是 GIMMEERTON 乐队的到来，乐队有 15 之多，（乐器有）喇叭，长号，单簧管， 巴颂管，法国号，古提琴，还有一些歌手。他们在有钱人家巡回演出，每个圣诞节的时候都会受到捐款，而我们则认为看他们演出是至高的享受。在颂歌唱毕之后，我们让他们尽兴的演唱。因为恩肖太太喜欢这些音乐，所以他们唱了不少。
+
+
+Catherine loved it too: but she said it sounded sweetest at the top of the steps, and she went up in the dark: I followed. They shut the house door below, never noting our absence, it was so full of people. She made no stay at the stairs'-head, but mounted farther, to the garret where Heathcliff was confined, and called him. He stubbornly declined answering for a while: she persevered, and finally persuaded him to hold communion with her through the boards. I let the poor things converse unmolested, till I supposed the songs were going to cease, and the singers to get some refreshment: then I clambered up the ladder to warn her. Instead of finding her outside, I heard her voice within. The little monkey had crept by the skylight of one garret, along the roof, into the skylight of the other, and it was with the utmost difficulty I could coax her out again. When she did come, Heathcliff came with her, and she insisted that I should take him into the kitchen, as my fellow-servant had gone to a neighbour's, to be removed from the sound of our 'devil's psalmody,' as it pleased him to call it. I told them I intended by no means to encourage their tricks: but as the prisoner had never broken his fast since yesterday's dinner, I would wink at his cheating Mr. Hindley that once. He went down: I set him a stool by the fire, and offered him a quantity of good things: but he was sick and could eat little, and my attempts to entertain him were thrown away. He leant his two elbows on his knees, and his chin on his hands and remained rapt in dumb meditation. On my inquiring the subject of his thoughts, he answered gravely - 'I'm trying to settle how I shall pay Hindley back. I don't care how long I wait, if I can only do it at last. I hope he will not die before I do!'
+</br>
+凯瑟琳也很喜欢，但是她说在楼梯顶上去听会更好听，于是她转身走进了黑暗中。我也跟着她出来了。楼下的们关着，而且到处都是人，所以也没有人发现我们的离开。她并没有在楼梯顶停下来，而是向更上面走去，走向关着希斯克利夫的阁楼，并叫他的名字。一开始，他倔强的不应声，但在她的一再坚持下，他终于隔着门板答应她。我没有去打扰这对可怜的小东西的谈话，直到我觉得音乐声渐渐停止，歌手中场休息，我才爬上楼去提醒她。但是门外根本没有人，我听见她的声音从门里传了出来。这只小猴子从一个阁楼的天窗爬了进去，严重房顶，爬进了另一个天窗。我费了九牛二虎之力才把她哄出来。当她出来时，她把希斯克利夫也带出来了。她坚持要我把他带到厨房去，因为我的助手已经去到邻居家去了，为的是远离“该死的”的颂歌，他喜欢这样说。我告诉他们，我根本不想帮他们耍这样的把戏，但是看在被关禁闭的人从昨天晚上到现在一直都在绝食的分上，这次对于他欺骗欣德利先生的事就睁只眼闭只眼了。但是他没有精神了，吃不下什么东西，我也没有心情再去逗他。他把双肘支在膝盖上，双手托着下巴，一言不发的想着什么。当我问及他在想什么时，他严肃的回答道，“我在想我该怎么报复欣德利。我不在乎我要等多长时间，如果我最终能做道的话。我希望他不要在我报复之前死掉。”
+
+
+'For shame, Heathcliff!' said I. 'It is for God to punish wicked people; we should learn to forgive.'
+</br>
+“真丢脸，希斯克利夫！”我说，“惩罚坏人是主的事情，我们应该学着原谅别人。”
+
+
+'No, God won't have the satisfaction that I shall,' he returned. 'I only wish I knew the best way! Let me alone, and I'll plan it out: while I'm thinking of that I don't feel pain.'
+</br>
+“不，主不会有我的那种满足感的，”他回答道，“我只想知道最好的办法。让我一个人呆在。我一定要想出来。我想这个的时候，我就感觉不道疼痛了。”
+
+
+'But, Mr. Lockwood, I forget these tales cannot divert you. I'm annoyed how I should dream of chattering on at such a rate; and your gruel cold, and you nodding for bed! I could have told Heathcliff's history, all that you need hear, in half a dozen words.'
+</br>
+“但是，洛克伍德先生，我忘记了这些故事并不能让你舒服。和你在养唠叨真是令人讨厌，而且你粥也凉了，你也打瞌睡了。关于希斯克利夫，我本该几个只简单的说说你该知道的就够了。”
+
+
+Thus interrupting herself, the housekeeper rose, and proceeded to lay aside her sewing; but I felt incapable of moving from the hearth, and I was very far from nodding. 'Sit still, Mrs. Dean,' I cried; 'do sit still another half-hour. You've done just right to tell the story leisurely. That is the method I like; and you must finish it in the same style. I am interested in every character you have mentioned, more or less.'
+</br>
+这样管家站了起来，中断了她的故事，准备放下她的针线活。但是我却没有力气走到壁炉那边，但我也还没有到打瞌睡的程度。“坐着别动，迪恩太太。”我喊道，“请再坐半个小时。你这样悠闲的讲故事的方法非常好，这是我喜欢的方式，而且你必须以这样的方式结束这个故事。我对你说到的每个人物都很感兴趣，或多或少是这样的。”
+
+
+'The clock is on the stroke of eleven, sir.'
+</br>
+“钟已经敲了 11 下了，先生。”
+
+
+'No matter - I'm not accustomed to go to bed in the long hours. One or two is early enough for a person who lies till ten.'
+</br>
+“不要紧的。我不习惯在床上躺很长时间。一两点对于一个早上睡到十点的人来说是早的了。”
+
+
+'You shouldn't lie till ten. There's the very prime of the morning gone long before that time. A person who has not done one-half his day's work by ten o'clock, runs a chance of leaving the other half undone.'
+</br>
+“你不该睡到 10 点。早上最宝贵的时间在这之前就浪费了。一个人如果在早上 10 点之前没有把他一天的工作完成一半，就有可能今天的工作有一半完成不了。”
+
+
+'Nevertheless, Mrs. Dean, resume your chair; because to-morrow I intend lengthening the night till afternoon. I prognosticate for myself an obstinate cold, at least.'
+</br>
+“尽管如此，迪恩太太，请你坐下。因为我明天决定睡到下午再起来。我断言我的感冒非常严重，肯定。”
+
+
+'I hope not, sir. Well, you must allow me to leap over some three years; during that space Mrs. Earnshaw - '
+</br>
+“我希望不会，先生。那么，你得让我跳过三年左右，那期间，恩肖太太 … ”
+
+
+'No, no, I'll allow nothing of the sort! Are you acquainted with the mood of mind in which, if you were seated alone, and the cat licking its kitten on the rug before you, you would watch the operation so intently that puss's neglect of one ear would put you seriously out of temper?'
+</br>
+“不，不，我不同意那样！你是否熟悉这样的心情，如果你一个人坐着，看着猫咪在你面前舔它的小猫咪，你看得非常得专注以致于猫咪漏掉了一只耳朵都会让你大动肝火。”
+
+
+'A terribly lazy mood, I should say.'
+</br>
+“慵懒得可怕，我会这样说。”
+
+
+'On the contrary, a tiresomely active one. It is mine, at present; and, therefore, continue minutely. I perceive that people in these regions acquire over people in towns the value that a spider in a dungeon does over a spider in a cottage, to their various occupants; and yet the deepened attraction is not entirely owing to the situation of the looker-on. They DO live more in earnest, more in themselves, and less in surface, change, and frivolous external things. I could fancy a love for life here almost possible; and I was a fixed unbeliever in any love of a year's standing. One state resembles setting a hungry man down to a single dish, on which he may concentrate his entire appetite and do it justice; the other, introducing him to a table laid out by French cooks: he can perhaps extract as much enjoyment from the whole; but each part is a mere atom in his regard and remembrance.'
+</br>
+“恰恰相反，是活跃的让人令人讨厌的活跃。现在，我的脑子就是这样的，因此，请你详细的讲下去吧。我发现这一带的人对和他们生活在不同地方的城里人的态度，就像是地牢里的蜘蛛对茅舍里的蜘蛛的态度一样。我如此感兴趣，并非是处于旁观的角度。因为他们的生活的确更热忱，更自我，不浮于表面，不善变和不易受外界干扰。我觉得在这里也许存在可持续一生的爱情，而我曾是一个不相信任何爱情可以持续一年以上的人。就好像给你一个饥饿的人一份饭，而他会细细品位，充分的享有这份饭；相反，如果你给他一桌子的法国大餐，他也许会从中挑选最好吃的，但是等他回想起来，每样都是那么微不足道。”
+
+
+'Oh! here we are the same as anywhere else, when you get to know us,' observed Mrs. Dean, somewhat puzzled at my speech.
+</br>
+“啊 ! 当你了解我们后，你就知道我们和其他地方的人没有什么区别。”迪恩太太说道，看起来对我的话感到迷惑。
+
+
+'Excuse me,' I responded; 'you, my good friend, are a striking evidence against that assertion. Excepting a few provincialisms of slight consequence, you have no marks of the manners which I am habituated to consider as peculiar to your class. I am sure you have thought a great deal more than the generality of servants think. You have been compelled to cultivate your reflective faculties for want of occasions for frittering your life away in silly trifles.'
+</br>
+“抱歉，”我回答道，“我的好朋友，你是对抗这种说法的鲜活例子。除了说话略带口音之外，你身上没有那些我习惯把人归到你这个阶层的特点。我想，比起普通的仆人而言，你肯定要有想法多了。你一直努力培养自己的思考能力，为了不一辈子为这些烦人的琐事而活。 ”
+
+
+Mrs. Dean laughed.
+</br>
+迪恩太太大笑。
+
+'I certainly esteem myself a steady, reasonable kind of body,' she said; 'not exactly from living among the hills and seeing one set of faces, and one series of actions, from year's end to year's end; but I have undergone sharp discipline, which has taught me wisdom; and then, I have read more than you would fancy, Mr. Lockwood. You could not open a book in this library that I have not looked into, and got something out of also: unless it be that range of Greek and Latin, and that of French; and those I know one from another: it is as much as you can expect of a poor man's daughter. However, if I am to follow my story in true gossip's fashion, I had better go on; and instead of leaping three years, I will be content to pass to the next summer - the summer of 1778, that is nearly twenty-three years ago.'
+</br>
+“我当然认为我自己是一个稳重，有理性的人，”她说道，“并不完全是为住在这山里，看着同样的脸，同样的事，一年又一年，而我经过非常严格的训练，这赋予了智慧。洛克伍德先生，你想不出来我读了多少书。在这书房里，你找不到一本我没有翻过的书，也不可能翻出来什么我没有见过的东西，除非是希腊文和拉丁文的东西，还又法文的东西；其他的我一本本的都看过了，你想象不到一个穷人的女儿会这么多。好了，如果我要继续用闲聊的方式讲这个故事的话，我看我的赶紧开始了。不从三年后开始，我觉得从第二年的夏天开始好了。那是 1778 年的夏天，大概 23 年以前的事情了。”
+</br>
+
+重点单词</br>
+reasonableadj. 合理的，适度的，通情达理的</br>
+winkn. 眨眼，使眼色，瞬间 v. 眨眼，使眼色，闪烁</br>
+neglectvt. 忽视，疏忽，忽略 n. 疏忽，忽视</br>
+satisfactionn. 赔偿，满意，妥善处理，乐事，确信</br>
+deficiencyn. 缺乏，不足，缺点</br>
+supplyn. 补给，供给，供应，贮备 vt. 补给，供给，提供，</br>
+trumpetn. 喇叭，喇叭声，喇叭手 vt. 宣扬；鼓吹；吹嘘 v</br>
+evidencen. 根据，证据 v. 证实，证明</br>
+assertionn. 断言，主张</br>
+ceasev. 停止，终止 n. 停止</br>
+</br>
+</br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第31篇</h1>
+日期:2008-09-23 20:41
+(单词翻译:单击)
+
+ON the morning of a fine June day my first bonny little nursling, and the last of the ancient Earnshaw stock, was born. We were busy with the hay in a far-away field, when the girl that usually brought our breakfasts came running an hour too soon across the meadow and up the lane, calling me as she ran.
+</br>
+在一个清新的六月清晨，第一个需要我照顾的漂亮宝宝诞生了，也是恩肖家族的最后一个孩子。我们正在远处的田里忙着耙干草，给我们送饭的女孩比以往早来了一个小时，她急匆匆的穿过草地，跑向田垄，一边跑一边喊我的名字 。
+
+'Oh, such a grand bairn!' she panted out. 'The finest lad that ever breathed! But the doctor says missis must go: he says she's been in a consumption these many months. I heard him tell Mr. Hindley: and now she has nothing to keep her, and she'll be dead before winter. You must come home directly. You're to nurse it, Nelly: to feed it with sugar and milk, and take care of it day and night. I wish I were you, because it will be all yours when there is no missis!'
+
+“啊，非常漂亮的宝宝！”她喘着讲，“世界上最漂亮的小孩！但是医生说太太保不住了，他说她已经患肺结核好几个月了。我听见他告诉欣德利先生：现在她已经没有办法再支持下去了，活不过到冬天的。你得马上回去。你要照顾这个孩子，雷莉。给他喂糖水和牛奶，日夜照顾他。我希望我是你，因为太太去世之后他就是你一个人的了。”
+
+'But is she very ill?' I asked, flinging down my rake and tying my bonnet.
+
+“她的病很严重吗？”我问道，扔下耙子，系上帽子。
+
+
+'I guess she is; yet she looks bravely,' replied the girl, 'and she talks as if she thought of living to see it grow a man. She's out of her head for joy, it's such a beauty! If I were her I'm certain I should not die: I should get better at the bare sight of it, in spite of Kenneth. I was fairly mad at him. Dame Archer brought the cherub down to master, in the house, and his face just began to light up, when the old croaker steps forward, and says he - "Earnshaw, it's a blessing your wife has been spared to leave you this son. When she came, I felt convinced we shouldn't keep her long; and now, I must tell you, the winter will probably finish her. Don't take on, and fret about it too much: it can't be helped. And besides, you should have known better than to choose such a rush of a lass!"'
+
+“我想是的，但是她看上去很勇敢。”女孩回答道，“她说话的样子就像她能看见他长大成人一样。看见这么漂亮的一个宝贝，她是高兴过度了！如果我是她，我肯定不会死的。只要看他一样我肯定就好了，才不管肯尼思说什么呢。他真是让人恼火。阿彻夫人抱着这个小天使到楼下给主人看时，主人刚刚面露喜色，这个老家伙就凑上去说，”恩肖啊，你妻子给你留下个儿子是上帝保佑啊。她刚来得时候，我就觉得我们留住她，现在我得告诉你，她活不过冬天。别太难过，也别烦恼，这都没用得。另外，你不该选这么一个薄命的姑娘。”
+
+'And what did the master answer?' I inquired.
+
+“那主人是怎么回答的呢？“我问道。
+
+'I think he swore: but I didn't mind him, I was straining to see the bairn,' and she began again to describe it rapturously. I, as zealous as herself, hurried eagerly home to admire, on my part; though I was very sad for Hindley's sake. He had room in his heart only for two idols - his wife and himself: he doted on both, and adored one, and I couldn't conceive how he would bear the loss.
+
+“我想他骂来着，但我没在意。我只想看那个孩子了。”她又开始兴高采烈的描述那孩子。我为欣德利感到难过，但是我和她一样急切，急匆匆的往回赶，一睹为快。虽然为欣德利，我感到非常难过。他的心里只有两个人，他的妻子和他自己，他两个都宠溺，喜爱一个。我无法想象他将如何面对这损失。
+
+
+When we got to Wuthering Heights, there he stood at the front door; and, as I passed in, I asked, 'how was the baby?'
+
+当我们到呼啸山庄时，他站在门口，我走进去，问“孩子怎么杨了？”
+
+'Nearly ready to run about, Nell!' he replied, putting on a cheerful smile.
+
+“快能跑了，雷儿！”他回答道，强挤出笑容。
+
+
+'And the mistress?' I ventured to inquire; 'the doctor says she's - '
+
+“那太太呢？”我斗胆问道，“医生说她 --- ”
+
+'Damn the doctor!' he interrupted, reddening. 'Frances is quite right: she'll be perfectly well by this time next week. Are you going up-stairs? will you tell her that I'll come, if she'll promise not to talk. I left her because she would not hold her tongue; and she must - tell her Mr. Kenneth says she must be quiet.'
+
+“该死的医生！”他打断我，气得脸通红。“弗郎西丝很好。下个星期的这个时候她就会痊愈的。你要到楼上去吗？你能告诉她我会上去的，只要她不说话。我离开她，因为她不停的说话，她一定要——告诉她，肯尼思先生要她静养。”
+
+I delivered this message to Mrs. Earnshaw; she seemed in flighty spirits, and replied merrily, 'I hardly spoke a word, Ellen, and there he has gone out twice, crying. Well, say I promise I won't speak: but that does not bind me not to laugh at him!'
+
+我把话传给了恩肖太太。她看上去精神很好，高兴的说，“我一个字都没有说，埃伦，他已经哭着出去两次了。好了，告诉他我保证不说话，但是这不能让我不对他笑。”
+
+Poor soul! Till within a week of her death that gay heart never failed her; and her husband persisted doggedly, nay, furiously, in affirming her health improved every day. When Kenneth warned him that his medicines were useless at that stage of the malady, and he needn't put him to further expense by attending her, he retorted, 'I know you need not - she's well - she does not want any more attendance from you! She never was in a consumption. It was a fever; and it is gone: her pulse is as slow as mine now, and her cheek as cool.'
+
+可怜的人！知道她去世的那个星期，她一直都保持着这样愉快的心情。而她的丈夫不断的固执的，不，疯狂的认为她的身体一天天的好起来了。当肯尼思提醒他病到这个地步，他的药也没有什么用了，不要再浪费钱给她看病了。他却回道，“我知道不用了。她好了。她不需要你再给她看病了！她根本就没有得肺结核。只是发了次烧，现在已经好了。她的脉搏和我的一样慢，她的脸和我一样凉。”
+
+He told his wife the same story, and she seemed to believe him; but one night, while leaning on his shoulder, in the act of saying she thought she should be able to get up to-morrow, a fit of coughing took her - a very slight one - he raised her in his arms; she put her two hands about his neck, her face changed, and she was dead.
+
+他跟她的妻子说了相同的话，而她似乎相信他的话。当时一个晚上，她靠在他的肩上，正说她觉得明天早上就可以下床了，一阵咳嗽卡赌住了她——非常轻微的咳嗽——他把她抱起来，她的双手环着他的脖子，她的脸色一变，死了.
+</br>
+</br>
+As the girl had anticipated, the child Hareton fell wholly into my hands. Mr. Earnshaw, provided he saw him healthy and never heard him cry, was contented, as far as regarded him. For himself, he grew desperate: his sorrow was of that kind that will not lament. He neither wept nor prayed; he cursed and defied: execrated God and man, and gave himself up to reckless dissipation. The servants could not bear his tyrannical and evil conduct long: Joseph and I were the only two that would stay. I had not the heart to leave my charge; and besides, you know, I had been his foster-sister, and excused his behaviour more readily than a stranger would. Joseph remained to hector over tenants and labourers; and because it was his vocation to be where he had plenty of wickedness to reprove.
+
+正如那女孩所料，海尔顿这孩子完全归我管了。只要他健康不哭闹，恩肖先生就满意了，这是对他的关心。至于他自己，他变得绝望，他的悲伤是那种哭不出来的痛。他从来不哭，也不祷告，他诅咒，挑衅神和人，借酒消愁。没多久仆人们就受不了他的暴戾和恶毒的使唤，最后只剩下我和约瑟夫。我不忍心丢下需要我照顾的孩子，另外，你知道，我是她的养姐，所以比起陌生人，我更能原谅他的行为。约瑟夫呆这里继续恐吓那些佃户和劳工，因为呆在有很多事情让他咒骂的地方就是他的职业。
+
+The master's bad ways and bad companions formed a pretty example for Catherine and Heathcliff. His treatment of the latter was enough to make a fiend of a saint. And, truly, it appeared as if the lad WERE possessed of something diabolical at that period. He delighted to witness Hindley degrading himself past redemption; and became daily more notable for savage sullenness and ferocity. I could not half tell what an infernal house we had. The curate dropped calling, and nobody decent came near us, at last; unless Edgar Linton's visits to Miss Cathy might be an exception. At fifteen she was the queen of the country-side; she had no peer; and she did turn out a haughty, headstrong creature! I own I did not like her, after infancy was past; and I vexed her frequently by trying to bring down her arrogance: she never took an aversion to me, though. She had a wondrous constancy to old attachments: even Heathcliff kept his hold on her affections unalterably; and young Linton, with all his superiority, found it difficult to make an equally deep impression. He was my late master: that is his portrait over the fireplace. It used to hang on one side, and his wife's on the other; but hers has been removed, or else you might see something of what she was. Can you make that out?
+
+主人的不良作风和不良朋友让凯瑟琳和希斯克利夫有样学样。他对后者的态度足以让一个圣徒变成魔鬼。而这个孩子在那个时候好像的确着了魔一样。他幸灾乐祸的看着欣德利的日益潦倒，日益狂虐和残忍。我根本没有办法描绘我们住在怎样的地狱里。助理牧师不再登门，没有人敢靠近我们，除了埃德加·林顿会来看凯西小姐，就别无他人了。她 15 岁的时候就成了这一带的女王。她不是贵族，但是她却非常傲慢，固执。她长大之后，我不再喜欢她。为了让她脱下傲慢的外衣，我经常惹恼她，但她却从来不讨厌我。她对旧的东西总是恋恋不忘。甚至希斯克利夫在她心目中的位置从未改变过，尽管年轻的林顿有那么多优势，却难以得到同等得地位。他是我才去世得主人。壁炉上是他的画像。以前是他的画像挂在一边，另一边挂他妻子的画像，但是现在她的被移走了，不然你可以看看她是什么样子。你能想象出来吗？
+
+Mrs. Dean raised the candle, and I discerned a soft-featured face, exceedingly resembling the young lady at the Heights, but more pensive and amiable in expression. It formed a sweet picture. The long light hair curled slightly on the temples; the eyes were large and serious; the figure almost too graceful. I did not marvel how Catherine Earnshaw could forget her first friend for such an individual. I marvelled much how he, with a mind to correspond with his person, could fancy my idea of Catherine Earnshaw.
+
+迪恩太太举起蜡烛，我看见了一张柔和的面孔，极像那个在呼啸山庄的年轻小姐，只是面相看上去更深沉，更亲切。这是一样很漂亮的画像。长长的头发在额角微微圈曲，眼睛很大，很严肃，样子看上去非常的高雅。凯瑟琳·恩肖为了这个人忘记了她的老朋友，我一点都不不觉得奇怪。以与他本人相称的头脑，他如何看我对凯瑟琳·恩肖的看法，这个才让我惊异呢。
+
+'A very agreeable portrait,' I observed to the house-keeper. 'Is it like?'
+
+“非常漂亮的画像！”我对管家说，“像他吗？”
+
+Yes,' she answered; 'but he looked better when he was animated; that is his everyday countenance: he wanted spirit in general.'
+
+"像，”她回答，“但是他兴致好的时候更好看。这是他平日里的样子，没什么精神。”
+
+Catherine had kept up her acquaintance with the Lintons since her five-weeks' residence among them; and as she had no temptation to show her rough side in their company, and had the sense to be ashamed of being rude where she experienced such invariable courtesy, she imposed unwittingly on the old lady and gentleman by her ingenious cordiality; gained the admiration of Isabella, and the heart and soul of her brother: acquisitions that flattered her from the first - for she was full of ambition - and led her to adopt a double character without exactly intending to deceive any one. In the place where she heard Heathcliff termed a 'vulgar young ruffian,' and 'worse than a brute,' she took care not to act like him; but at home she had small inclination to practise politeness that would only be laughed at, and restrain an unruly nature when it would bring her neither credit nor praise.
+
+自从凯瑟琳在林顿家住了五个星期后，她和他们一直有往来。她不愿在他们露出没教养的一面，而且她觉得在彬彬有礼的地方表现的粗鲁是让人羞愧的，她无意给老夫人和先生留下了乖巧的印象，赢得了伊莎贝拉赞美，还有她哥哥的心和灵魂。起初，这些让她颇为陶醉，因为她处处受到赞美，也让她养成了双重性格，其实她并没有想骗任何人。在有人说希斯克利夫是“粗俗的小流氓”，和“不如畜生”的地方，她尽量表现得不像他。但是，在家的时候，他根本就不会表现得有礼貌，因为那会被嘲笑，而约束不羁的本性也不会给她好的名声，或是赞美。
+</br>
+重点单词</br>
+ruffiann. 恶棍 adj. 残暴的</br>
+arrogancen. 傲慢，自大</br>
+conductn. 行为，举动，品行 v. 引导，指挥，管理 vt.</br>
+acquaintancen. 熟人，相识，了解</br>
+fell动词fall的过去式 n. 兽皮 vt. 砍伐，击倒 a</br>
+decentadj. 体面的，正派的，得体的，相当好的</br>
+fevern. 发烧，发热，狂热 v. （使）发烧，（使）狂热</br>
+countenancen. 面容，面部表情，支持</br>
+recklessadj. 不计后果的，大意的，鲁莽的</br>
+desperateadj. 绝望的，不顾一切的</br>
