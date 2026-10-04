@@ -797,3 +797,135 @@ diaryn. 日记，日记簿
 rudelyadv. 无礼地，粗鲁地，粗陋地
 
 secureadj. 安全的，牢靠的，稳妥的 vt
+
+</br>
+</br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第11篇</h1>
+日期:2008-09-18 19:48
+(单词翻译:单击)
+
+'All day had been flooding with rain; we could not go to church, so Joseph must needs get up a congregation in the garret; and, while Hindley and his wife basked downstairs before a comfortable fire - doing anything but reading their Bibles, I'll answer for it - Heathcliff, myself, and the unhappy ploughboy were commanded to take our prayer-books, and mount: we were ranged in a row, on a sack of corn, groaning and shivering, and hoping that Joseph would shiver too, so that he might give us a short homily for his own sake. A vain idea! The service lasted precisely three hours; and yet my brother had the face to exclaim, when he saw us descending, "What, done already?" On Sunday evenings we used to be permitted to play, if we did not make much noise; now a mere titter is sufficient to send us into corners.
+
+
+“一整天都是雨水泛滥。我们不能去教堂，所以约瑟夫势必将大家集合到阁楼上。而欣德利和他的太太则可以在楼下享受温暖的炉火，可以不读他们的《圣经》，做任何事情。而我就必须听从约瑟夫的安排。我，希斯克利夫和其他的耕童都被要求带着各自的祷告书，到上面去。站在玉米袋子上面，我们被排成一排，我们难受的呻吟和发抖，并希望约瑟夫也发抖，这样为了他自己，他就会把圣经的讲解缩短一些。毫无意义的想法！整个仪式持续了整整三个小时，然而我的哥哥在看见我们下楼的时候竟然无耻的问道：“什么，结束啦？”星期天的晚上，只要我们不弄出太多的声音，我们是可以玩的。但是现在，哪怕是一点点笑声都足够让我们被赶到角落里去。
+
+
+"You forget you have a master here," says the tyrant. "I'll demolish the first who puts me out of temper! I insist on perfect sobriety and silence. Oh, boy! was that you? Frances darling, pull his hair as you go by: I heard him snap his fingers." Frances pulled his hair heartily, and then went and seated herself on her husband's knee, and there they were, like two babies, kissing and talking nonsense by the hour - foolish palaver that we should be ashamed of. We made ourselves as snug as our means allowed in the arch of the dresser. I had just fastened our pinafores together, and hung them up for a curtain, when in comes Joseph, on an errand from the stables. He tears down my handiwork, boxes my ears, and croaks:
+
+“你忘记了这里是有主人的了，”暴君说道，“我会把第一个惹我生气的家伙揉碎的！我坚持绝对的清净和安静。噢，小子！是你吗？亲爱的弗郎西丝，你过去的时候扯他的头发，因为我听见他打响指了。” 弗郎西丝非常认真的扯了他的头发，然后走回去坐到她的丈夫的膝盖上，然后，他们像孩子一样亲吻，几个小时的闲聊――一些让我们应该感到羞耻的愚蠢的闲话。在碗柜下面的拱门里，我们用我们的方法让自己尽可能的暖和。我把我们的围裙系在一起，挂起来当窗帘用。当约瑟夫受那对狠心肠的人差遣进来时，他扯下了我的手工品，并打了我耳光，并用嘶哑的喊道：
+
+
+'"T' maister nobbut just buried, and Sabbath not o'ered, und t' sound o' t' gospel still i' yer lugs, and ye darr be laiking! Shame on ye! sit ye down, ill childer! there's good books eneugh if ye'll read 'em: sit ye down, and think o' yer sowls!"
+
+“老主人刚刚下葬，安息日还没有结束，福音还在你们的耳中回荡，而你们竟敢玩！可耻啊，你们！坐下，坏孩子！这里有很多好书，如果你们愿意读的话。坐下来好好想想你们的灵魂。”
+
+
+'Saying this, he compelled us so to square our positions that we might receive from the far-off fire a dull ray to show us the text of the lumber he thrust upon us. I could not bear the employment. I took my dingy volume by the scroop, and hurled it into the dog- kennel, vowing I hated a good book. Heathcliff kicked his to the same place. Then there was a hubbub!
+
+话毕，他强迫我们调整位置，以便远处壁炉的微弱亮光可以让我们辨认他扔给我们的那些没用的书。我无法忍受这样的安排。随着关门的轧轧声，我拿起我那本肮脏的书，用力扔进狗窝里，并发誓我讨厌说有的好书。希斯克利夫把他的踢到了同样的地方。这也就弄出了声音！
+
+
+'"Maister Hindley!" shouted our chaplain. " Maister, coom hither! Miss Cathy's riven th' back off 'Th' Helmet o' Salvation,' un' Heathcliff's pawsed his fit into t' first part o' 'T' Brooad Way to Destruction!' It's fair flaysome that ye let 'em go on this gait. Ech! th' owd man wad ha' laced 'em properly - but he's goan!"
+
+“欣德利主人！”我们的牧师喊道，“主人，到这里来！凯西小姐把《救恩的头盔》的后面扯下来了，而希斯克利夫把脚印踩到《宽广的毁灭之路》的第一部分上面了。你让他们在这个地方这样下去真实糟糕极了。啊！老主人肯定会把他们管得好好的――可是他走了！”
+
+
+'Hindley hurried up from his paradise on the hearth, and seizing one of us by the collar, and the other by the arm, hurled both into the back-kitchen; where, Joseph asseverated, "owd Nick would fetch us as sure as we were living: and, so comforted, we each sought a separate nook to await his advent.” I reached this book, and a pot of ink from a shelf, and pushed the house-door ajar to give me light, and I have got the time on with writing for twenty minutes; but my companion is impatient, and proposes that we should appropriate the dairywoman's cloak, and have a scamper on the moors, under its shelter. A pleasant suggestion - and then, if the surly old man come in, he may believe his prophecy verified - we cannot be damper, or colder, in the rain than we are here.'
+
+欣德利从他壁炉前的天堂急匆匆的走来，提起我们中的一个的领子，抓住另一个的膀子，用力扔到厨房后面。而约瑟夫断言，“撒旦会来这里抓我们的，就如同我们活着一样确定。”于是，作为安慰，我们各自找一个隐蔽的地方等待他的到来。我拿起这本书，从书架上拿下一瓶墨水，并把房门微微，让亮光照进来，并写了大概20分钟，而我的同伴就没有耐心了。他建议我们偷走牛奶场女工的斗篷，并在它的庇护下在荒地上狂奔。多好的一个注意――然而，如果那个粗暴的老人进来的话，他可能会相信他的预言实现了――比起我们在这里，在雨里的我们真的是不可能更潮，更冷了。
+
+</br>
+重点单词</br>
+tyrantn. 暴君，专制的君主，残暴的人</br>
+unhappyadj. 不快乐的，不高兴的</br>
+collarn. 衣领，项圈，[机]轴环 vt. 抓住，为 ...</br>
+shelfn. 架子，搁板</br>
+verifiedadj. 已查清的，已证实的</br>
+rown. 排，船游，吵闹 vt. 划船，成排 vi. 划船，</br>
+lumbern. 木材，木料 v. 伐木 vi. 缓慢地移动 vt.</br>
+dulladj. 呆滞的，迟钝的，无趣的，钝的，暗的 v. 变钝</br>
+curtainn. 窗帘，门帘，幕(布) vt. (用帘)装饰，(以帘</br>
+companionn. 同伴，同事，成对物品之一，</br>
+
+</br></br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第12篇</h1>
+日期:2008-09-18 19:50
+(单词翻译:单击)
+
+
+I suppose Catherine fulfilled her project, for the next sentence took up another subject: she waxed lachrymose.
+
+'How little did I dream that Hindley would ever make me cry so!' she wrote. 'My head aches, till I cannot keep it on the pillow; and still I can't give over. Poor Heathcliff! Hindley calls him a vagabond, and won't let him sit with us, nor eat with us any more; and, he says, he and I must not play together, and threatens to turn him out of the house if we break his orders. He has been blaming our father (how dared he?) for treating H. too liberally; and swears he will reduce him to his right place - '
+
+
+我想凯瑟琳结束了这个话题，因为接下来的句子开始了另一话题：她极伤心的哭泣。
+
+‘我从来没有想到欣德利会让我这样哭泣！’她写道。‘我的头疼，疼到我无法睡在枕头上，而我还是不能停止哭泣。可怜的希斯克利夫？欣德利叫他流氓，并且不允许他和我们做在一起，也不能再和我们一起吃饭。甚至，他说，我们两个不能再在一起玩，并威胁说，如果我们不听话，他会把希斯克利夫赶出家去。他指着我们的父亲（他怎么敢的？）对希太大方了，并且发誓会让希回到真正属于他的地方去。
+
+
+I began to nod drowsily over the dim page: my eye wandered from manuscript to print. I saw a red ornamented title - 'Seventy Times Seven, and the First of the Seventy-First.' A Pious Discourse delivered by the Reverend Jabez Branderham, in the Chapel of Gimmerden Sough.' And while I was, half-consciously, worrying my brain to guess what Jabez Branderham would make of his subject, I sank back in bed, and fell asleep. Alas, for the effects of bad tea and bad temper! What else could it be that made me pass such a terrible night? I don't remember another that I can at all compare with it since I was capable of suffering.
+
+随着我的眼睛从昏黄的书页上由手写体到印刷体，我开始昏昏然地打起瞌睡。我看见红色的花式印刷的标题――‘七十个七次，七十一个的第一次。’由杰贝兹·布拉德汗姆（Jabez Branderham）牧师在格美顿飕(Gimmerden Sough)小礼拜堂里发布的虔诚的演讲。脑子里急于想知道杰贝兹·布拉德汗姆会说什么的时候，我倒在床上睡着了。唉，由于讨厌的茶和坏脾气的影响！还有什么原因会让我度过如此糟糕的一夜呢？我想不起来任何可以和这相比的理由了，因为我是非常能忍受的。
+
+
+I began to dream, almost before I ceased to be sensible of my locality. I thought it was morning; and I had set out on my way home, with Joseph for a guide. The snow lay yards deep in our road; and, as we floundered on, my companion wearied me with constant reproaches that I had not brought a pilgrim's staff: telling me that I could never get into the house without one, and boastfully flourishing a heavy-headed cudgel, which I understood to be so denominated. For a moment I considered it absurd that I should need such a weapon to gain admittance into my own residence. Then a new idea flashed across me. I was not going there: we were journeying to hear the famous Jabez Branderham preach, from the text - 'Seventy Times Seven;' and either Joseph, the preacher, or I had committed the 'First of the Seventy-First,' and were to be publicly exposed and excommunicated.
+
+在我快要忘记自己的处境之前，我开始做梦了。 我认为是早上，约瑟夫领我回家。路上堆着几尺厚的雪，我们艰难的往前走着。同伴不停的指责我没有带朝圣的手杖使我感到厌烦：他告诉我，如果没有手杖的话是进不去的；而且得意洋洋的炫耀他的那个愚蠢的棒子，在我看来是这样的。一开始，我觉得需要一个这样的武器去赢得进入我自己的家的许可实在是荒谬之极，突然一个念头闪过我的脑海，我不是回家，我们是在去听著名的杰贝兹·布拉德汗姆布道的路上，在“七十个七次”者章中，无论是约瑟夫，还是布道者，或是我，都没有看到“第七十一个中的第一次”，因此我们被示众，并被逐出了教会。
+
+
+We came to the chapel. I have passed it really in my walks, twice or thrice; it lies in a hollow, between two hills: an elevated hollow, near a swamp, whose peaty moisture is said to answer all the purposes of embalming on the few corpses deposited there. The roof has been kept whole hitherto; but as the clergyman's stipend is only twenty pounds per annum, and a house with two rooms, threatening speedily to determine into one, no clergyman will undertake the duties of pastor: especially as it is currently reported that his flock would rather let him starve than increase the living by one penny from their own pockets. However, in my dream, Jabez had a full and attentive congregation; and he preached - good God! what a sermon; divided into FOUR HUNDRED AND NINETY parts, each fully equal to an ordinary address from the pulpit, and each discussing a separate sin! Where he searched for them, I cannot tell. He had his private manner of interpreting the phrase, and it seemed necessary the brother should sin different sins on every occasion. They were of the most curious character: odd transgressions that I never imagined previously.
+
+我们来到小礼拜堂。我真的走路去过那里两三次，位于两山之间的山坳里，是一个突出来的山坳，旁边有个煤层积水坑。据说，它的泥炭湿气足以让埋在这里的几具尸体不腐。屋顶完好的保存至今；但是由于教士每年的收入仅仅20镑，并分得一个有两个房间的房子，而现在快要决定只给一间了，因此没有一个教士会承担起牧师的职责，尤其是据最近的报道，他的教民们宁愿让他饿死也不愿意从自己的口袋里拿出一分钱来供其生计。然而，在我的梦里，杰贝兹的组织了一次所有人参加的，关注的圣会。他的布道分四百九十个部分――老天！这是什么布道！ 每一个都相当于平常教堂的一次宣讲的内容，而且每个都讨论一个不同的罪。我也说不处来，他是在哪里找到它们的。他用他自己的方式解释这些词语，而且看上去这位兄弟有必要对同样的场景感受不同的罪。它们拥有最为奇怪的特点：而这些奇怪的罪名我以前从来没有想过。
+</br></br>
+
+重点单词</br>
+addressn. 住址，致词，讲话，谈吐，(处理问题的)技巧 vt.</br>
+flockn. 一群(人，兽)，大堆 v. 成群而行，聚集</br>
+starvevi. 挨饿，受饿，(将要)饿死 vt. 使挨饿，使饿死</br>
+curiousadj. 好奇的，奇特的</br>
+separaten. 分开，抽印本 adj. 分开的，各自的，单独的 v</br>
+lachrymoseadj. 爱哭的，引人落泪的，哀痛的</br>
+stipendn. 薪水，定期津贴</br>
+chapeln. 小礼拜堂，礼拜仪式，私人祈祷处，唱诗班，印刷厂工会</br>
+manuscriptadj. 手抄的 n. 手稿，原稿</br>
+committedadj. 献身于某种事业的，委托的</br>
+
+</br></br></br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第13篇</h1>
+日期:2008-09-18 19:52
+(单词翻译:单击)
+
+Oh, how weary I grow. How I writhed, and yawned, and nodded, and revived! How I pinched and pricked myself, and rubbed my eyes, and stood up, and sat down again, and nudged Joseph to inform me if he would EVER have done. I was condemned to hear all out: finally, he reached the 'FIRST OF THE SEVENTY-FIRST.' At that crisis, a sudden inspiration descended on me; I was moved to rise and denounce Jabez Branderham as the sinner of the sin that no Christian need pardon.
+
+噢，我越来越不厌烦。我转来转去，打呵欠，打瞌睡，然后醒了！我掐自己，戳自己，拽自己的耳朵，站起来，坐下，并用肘碰碰约瑟夫，让他告诉我，如果这些结束的话。我被迫听完所有的。终于，他说岛了“第七十一次的第一次.”就在这个时候，一个念头突然闪现我的脑海，我站起来，公然指责杰贝兹·布拉德汗姆是个罪人，罪名是所有基督教徒都不用忏悔的罪。
+
+
+'Sir,' I exclaimed, 'sitting here within these four walls, at one stretch, I have endured and forgiven the four hundred and ninety heads of your discourse. Seventy times seven times have I plucked up my hat and been about to depart - Seventy times seven times have you preposterously forced me to resume my seat. The four hundred and ninety-first is too much. Fellow-martyrs, have at him! Drag him down, and crush him to atoms, that the place which knows him may know him no more!'
+
+“先生，”我说，“坐在这里，对着这四面墙，我一口气忍受了并原谅了您的四百九十次言论。七十个七次，我拿起我的帽子准备离开；七十个七次，你荒谬的迫使我回到座位上。兄弟姐妹们，抓住他！把他拖下来，把他揉成粉末，这样也许让他永远从这个知晓他的地方消失！”
+
+
+'THOU ART THE MAN!' cried Jabez, after a solemn pause, leaning over his cushion. 'Seventy times seven times didst thou gapingly contort thy visage - seventy times seven did I take counsel with my soul - Lo, this is human weakness: this also may be absolved! The First of the Seventy-First is come. Brethren, execute upon him the judgment written. Such honour have all His saints!'
+
+“你就是那个人！” 杰贝兹惊呼，瞬间的肃静之后，他靠在他的椅背上，“七十个七次，你夸张的扭曲你的面部，而我则是七十个七次，用我的灵魂劝告你。主啊，这就是人类的缺憾，而这也是可以解决的！第七十一个七次的第一次来了。兄弟们，给他执行写下的判决。作为主的圣徒是多么荣幸的事啊！”
+
+
+With that concluding word, the whole assembly, exalting their pilgrim's staves, rushed round me in a body; and I, having no weapon to raise in self-defence, commenced grappling with Joseph, my nearest and most ferocious assailant, for his. In the confluence of the multitude, several clubs crossed; blows, aimed at me, fell on other sconces. Presently the whole chapel resounded with rappings and counter rappings: every man's hand was against his neighbour; and Branderham, unwilling to remain idle, poured forth his zeal in a shower of loud taps on the boards of the pulpit, which responded so smartly that, at last, to my unspeakable relief, they woke me. And what was it that had suggested the tremendous tumult? What had played Jabez's part in the row? Merely the branch of a fir-tree that touched my lattice as the blast wailed by, and rattled its dry cones against the panes! I listened doubtingly an instant; detected the disturber, then turned and dozed, and dreamt again: if possible, still more disagreeably than before.
+
+随着他的话音落下，所有的与会者举起了他们朝圣的手杖，冲向我，把我围了起来。而我，没有防身的武器可以举起，一把抓住约瑟夫，这个离我最近，也是攻击我最猛烈的家伙，扭打在一起。在人群中，有几跟手杖架成十字，向我砸了过来，却打在了别人的头上。立即，整个小礼拜堂充满了打斗的声音。每个人的手都对准了他旁边的人，而布拉德汗姆也不愿意闲着，他在布道台上大声的放磁带，继续倾注他的热情，而这却很好的缓解了我无法演说的痛苦，最后让我醒了过来。这样的巨大的骚乱意味着什么呢？是谁扮演了杰贝兹的角色？只有当风刮过的时候，冷杉的树枝打在窗格子上，干了的松果摩擦过窗格嘎嘎直响。我警觉的听着，想要辨别出是什么弄出的声音，然后翻了个身，迷糊过去，又开始做梦了。如果可能的话，这个比上一个更难以置信。
+
+
+重点单词</br>
+merelyadv. 仅仅，只不过</br>
+discoursen. 谈话，演讲 vi. 谈话，讲述 vt. 叙述，讨论</br>
+unwillingadj. 不愿意的</br>
+inspirationn. 灵感，吸入，鼓舞人心(的东西)</br>
+departvt. 离开 vi. 离开，死亡，脱轨</br>
+sinn. 原罪 v. 犯罪，违反(教规)</br>
+judgmentn. 裁判，宣告，该判决书</br>
+chapeln. 小礼拜堂，礼拜仪式，私人祈祷处，唱诗班，印刷厂工会</br>
+stretchn. 伸展，张开 adj. 可伸缩的 v. 伸展，张开，</br>
+idleadj. 无目的的，无聊的; 懒惰的</br>
