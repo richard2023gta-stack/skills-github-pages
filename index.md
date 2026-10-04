@@ -929,3 +929,356 @@ judgmentn. 裁判，宣告，该判决书</br>
 chapeln. 小礼拜堂，礼拜仪式，私人祈祷处，唱诗班，印刷厂工会</br>
 stretchn. 伸展，张开 adj. 可伸缩的 v. 伸展，张开，</br>
 idleadj. 无目的的，无聊的; 懒惰的</br>
+</br>
+</br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第14篇</h1>
+日期:2008-09-18 19:53
+(单词翻译:单击)
+
+This time, I remembered I was lying in the oak closet, and I heard distinctly the gusty wind, and the driving of the snow; I heard, also, the fir bough repeat its teasing sound, and ascribed it to the right cause: but it annoyed me so much, that I resolved to silence it, if possible; and, I thought, I rose and endeavoured to unhasp the casement. The hook was soldered into the staple: a circumstance observed by me when awake, but forgotten. 'I must stop it, nevertheless!' I muttered, knocking my knuckles through the glass, and stretching an arm out to seize the importunate branch; instead of which, my fingers closed on the fingers of a little, ice-cold hand! The intense horror of nightmare came over me: I tried to draw back my arm, but the hand clung to it, and a most melancholy voice sobbed, 'Let me in - let me in!' 'Who are you?' I asked, struggling, meanwhile, to disengage myself.
+
+这次，我记得，我躺在橡木壁橱里，并且很清晰的听见外面的大风，还有被风吹的雪的声音。我听着，还是，冷杉还是不断发出烦人的声音，认为是它造就了这些。我实在是受不了它了，觉得要让它安静下来，如果可能的话。想着，我就站起来，费力想推开窗扉。我醒的时候看见窗扣是和台子焊在一起的，但是忘记了。“不管怎么样，我都要制止它！”我自言自语，用我的手砸碎玻璃，把手伸出去，想要抓住主干；但是，我抓到的确实一只小小的，冰冷的手！我立即觉得毛骨悚然，试图讲手缩回来，但是那只手却抓住不放，一个最忧郁的声音呜咽道，“让我进去， 让我进去！” “你是谁？”我问，同时挣扎着，想脱身。
+
+
+'Catherine Linton,' it replied, shiveringly (why did I think of LINTON? I had read EARNSHAW twenty times for Linton) - 'I'm come home: I'd lost my way on the moor!' As it spoke, I discerned, obscurely, a child's face looking through the window. Terror made me cruel; and, finding it useless to attempt shaking the creature off, I pulled its wrist on to the broken pane, and rubbed it to and fro till the blood ran down and soaked the bedclothes: still it wailed, 'Let me in!' and maintained its tenacious gripe, almost maddening me with fear. 'How can I!' I said at length. 'Let ME go, if you want me to let you in!' The fingers relaxed, I snatched mine through the hole, hurriedly piled the books up in a pyramid against it, and stopped my ears to exclude the lamentable prayer. I seemed to keep them closed above a quarter of an hour; yet, the instant I listened again, there was the doleful cry moaning on!
+
+“凯瑟琳·林顿，”它回答道，声音颤抖（为什么我会想林顿呢？我读到的恩肖是林顿的二十倍之多），“我回家，但是我在野外迷路了！”在它说话的时候，我模糊的看见了一个孩子般的脸透过窗户往里看。恐惧让我变的残忍，发现挣扎摆脱不了这个东西，我把它的手腕压在破了的窗户上，来回的摩擦直到血流下来，浸湿了床褥，但是它还是哀求，“让我进去！”，还是紧紧的抓着不放，恐惧几乎让我疯狂。“我怎么让你进来！”最后我说，“如果你想让我放你进来的话，先放开我。”手指松开了，我从洞里把手缩回来，立即把书堆成金字塔形状堵在洞口，并将耳朵捂起来，不想在听见那烦人的哀求。我似乎让它停止了一刻钟，然而当我再听的时候，那个哀求还在不停的哀求。
+
+
+'Begone!' I shouted. 'I'll never let you in, not if you beg for twenty years.' 'It is twenty years,' mourned the voice: 'twenty years. I've been a waif for twenty years!' Thereat began a feeble scratching outside, and the pile of books moved as if thrust forward. I tried to jump up; but could not stir a limb; and so yelled aloud, in a frenzy of fright. To my confusion, I discovered the yell was not ideal: hasty footsteps approached my chamber door; somebody pushed it open, with a vigorous hand, and a light glimmered through the squares at the top of the bed. I sat shuddering yet, and wiping the perspiration from my forehead: the intruder appeared to hesitate, and muttered to himself. At last, he said, in a half-whisper, plainly not expecting an answer, 'Is any one here?' I considered it best to confess my presence; for I knew Heathcliff's accents, and feared he might search further, if I kept quiet. With this intention, I turned and opened the panels. I shall not soon forget the effect my action produced.
+
+“走开！”我叫道，“我永远都不会让你进来的，就算你乞求二十年也没有用的。”“是二十年了，”那个哀怨的声音说道，“二十年，我已经二十年无家可归了！”话毕，外面响起了微弱的抓的声音，那堆书也动起来，仿佛有东西要进来了。我试图跳起来，脚却动不了；于是，我大声的叫，极其恐惧的叫。让我迷惑的是，我发现，叫并不是理想的方式。急促的脚步靠近我的房门，有人用力推开门，微弱的灯光透过床上顶部的格子照了进来。我还发抖的坐着，擦去头上的汗。来人似乎有些怀疑，自言自语。最后，他用近乎耳语的声音问道，“有人在吗？”并没有期待有人回答。我觉得最好还是承认我的存在，因为我听出是希斯克利夫的声音，也担心如果我部说话，他可能会继续找下去。思定，我转身打开挡板。我将永远部会忘记我的动作产生的效果。
+</br>
+
+重点单词</br>
+stirn. 感动(激动，愤怒或震动), 搅拌，骚乱 vt. 激</br>
+gripen. 抱怨，抓牢 n. 肠绞痛 vt. 抓住，使 ...</br>
+feebleadj. 虚弱的，无力的</br>
+soakedadj. 湿透的 动词soak的过去式和过去分词</br>
+melancholyn. 忧沉，悲哀，愁思 adj. 忧沉的，使人悲伤的，愁</br>
+relaxedadj. 放松的， 松懈的，随意的 relax的过去式（</br>
+disengagevt. 使脱离；解开；解除 vi. 脱出；松开</br>
+dolefuladj. 悲哀的，寂寞的，阴沉的</br>
+thrustn. 推力，刺，力推 v. 插入，推挤，刺</br>
+teasingn. 戏弄</br>
+</br>
+</br>
+<h1>名著《呼啸山庄》中英文对照翻译 第15篇</h1>
+日期:2008-09-19 21:53
+(单词翻译:单击)
+
+Heathcliff stood near the entrance, in his shirt and trousers; with a candle dripping over his fingers, and his face as white as the wall behind him. The first creak of the oak startled him like an electric shock: the light leaped from his hold to a distance of some feet, and his agitation was so extreme, that he could hardly pick it up.
+
+希斯克利夫站在门口，身穿衬衫和长裤，手里拿着蜡烛，烛油滴在他的手指上，而他的脸同他身后的墙一样苍白。橡木门一响，他的震惊犹如触电一般：蜡烛从他手中滑落下来，掉在了几英尺外，而他极度不安，差点捡不起来蜡烛。
+
+
+'It is only your guest, sir,' I called out, desirous to spare him the humiliation of exposing his cowardice further. 'I had the misfortune to scream in my sleep, owing to a frightful nightmare. I'm sorry I disturbed you.'
+
+“是你的客人而已，先生，”为了避免他会因过多的表露出他的胆怯而感到难堪，我喊出声来。“因为做噩梦，我不幸在梦中大叫。很抱歉，打扰你了。”
+
+
+'Oh, God confound you, Mr. Lockwood! I wish you were at the - ' commenced my host, setting the candle on a chair, because he found it impossible to hold it steady. 'And who showed you up into this room?' he continued, crushing his nails into his palms, and grinding his teeth to subdue the maxillary convulsions. 'Who was it? I've a good mind to turn them out of the house this moment?'
+
+“噢，你真该死， 洛克伍德先生！我希望你是在――”我的主人说道，由于拿不稳手中的蜡烛，他把它固定在椅子上。“是谁领你到这个房间来的？”他继续问道，拳头紧握，指甲扎入手掌，咬紧牙齿以防止下颌的抽搐。“是谁？我很想现在就把他赶出去！”
+
+
+'It was your servant Zillah,' I replied, flinging myself on to the floor, and rapidly resuming my garments. 'I should not care if you did, Mr. Heathcliff; she richly deserves it. I suppose that she wanted to get another proof that the place was haunted, at my expense. Well, it is - swarming with ghosts and goblins! You have reason in shutting it up, I assure you. No one will thank you for a doze in such a den!'
+
+“是你的仆人齐拉，”我说，同时跳下床来，很快穿好衣服。“我一点都不在乎你这样做，希斯克利夫先生，这是她应得的。我猜，她是想借我的缘故，换一个不闹鬼地方工作。而这里，挤满了孤魂野鬼！我可以保证，你把它关起来是对的。没有人因为在这个鬼地方睡上一觉而感谢你的！”
+
+
+'What do you mean?' asked Heathcliff, 'and what are you doing? Lie down and finish out the night, since you ARE here; but, for heaven's sake! don't repeat that horrid noise: nothing could excuse it, unless you were having your throat cut!'</br>
+“你说什么？”希斯克利夫问道，“你在干什么？既然你已经在这里了，就躺下来等天亮在说。但是，看在上帝的份上，千万不要再发出那恐怖的声音，除非你的喉咙被割断了！”
+
+
+'If the little fiend had got in at the window, she probably would have strangled me!' I returned. 'I'm not going to endure the persecutions of your hospitable ancestors again. Was not the Reverend Jabez Branderham akin to you on the mother's side? And that minx, Catherine Linton, or Earnshaw, or however she was called - she must have been a changeling - wicked little soul! She told me she had been walking the earth these twenty years: a just punishment for her mortal transgressions, I've no doubt!'</br>
+“如果那个小恶鬼从窗户爬了进来，她肯定会掐死我的！”我回敬道，“我可不愿再受你那好客的祖先的迫害了。尊敬的杰布兹·布兰德汉姆是不是你母亲的亲戚？而那个年轻女子，凯瑟琳·林顿，或者恩肖，或者其他什么她用过的姓氏，她一定难以管束，是个小淘气包！她告诉我，她在外面走了20年了，只是为了救赎她身前犯下的罪。对此，我一点都不怀疑！”
+
+
+重点单词</br>
+subduev. 使服从，压制，减弱</br>
+hospitableadj. 好客的，殷勤的，易于接受的，宜人的</br>
+humiliationn. 耻辱，丢脸</br>
+oakn. 橡树，橡木</br>
+wickedadj. 坏的，邪恶的，缺德的 adv. 极端地，非常地</br>
+extremeadj. 极度的，极端的 n. 极端，极限</br>
+trousersn. 裤子</br>
+settingn. 安装，放置，周围，环境，(为诗等谱写的)乐曲 动词</br>
+nightmaren. 恶梦，使人极其痛苦的事情或经历，梦魇</br>
+impossibleadj. 不可能的，做不到的 adj. 无</br>
+</br>
+</br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第16篇</h1>
+日期:2008-09-19 21:56
+(单词翻译:单击)
+
+Scarcely were these words uttered when I recollected the association of Heathcliff's with Catherine's name in the book, which had completely slipped from my memory, till thus awakened. I blushed at my inconsideration: but, without showing further consciousness of the offence, I hastened to add - 'The truth is, sir, I passed the first part of the night in - ' Here I stopped afresh - I was about to say 'perusing those old volumes,' then it would have revealed my knowledge of their written, as well as their printed, contents; so, correcting myself, I went on - 'in spelling over the name scratched on that window-ledge. A monotonous occupation, calculated to set me asleep, like counting, or - '
+
+话还刚出口，我救想起了书上关于希斯克利夫和凯瑟琳关系的描写，而这之前，我却忘得一干二净，现在感道非常尴尬。我因自己得疏忽而感到脸红，但是，我并没有表现出来已经感到自己的冒失，而是很快补充到，“事情是这样的，先生，我前半夜是在这里――”话到这里，我停住了，我本想说“读这些旧书”，但是这样就会暴露我知道书中的内容，因此我改口说道，“拼刻在窗台上的这些名字，非常单调的事情，数着数着就睡着了，就跟数数字一样，或者――”
+
+
+'What CAN you mean by talking in this way to ME!' thundered Heathcliff with savage vehemence. 'How - how DARE you, under my roof? - God! he's mad to speak so!' And he struck his forehead with rage.
+
+“你用这样和我说话到底想说什么？”希斯克利夫非常激动而粗鲁的吼道，“好，好大的胆子啊你，这是我的家！上帝啊，他这样说真是疯了！”他的前额因愤怒而青筋暴涨。
+
+
+I did not know whether to resent this language or pursue my explanation; but he seemed so powerfully affected that I took pity and proceeded with my dreams; affirming I had never heard the appellation of 'Catherine Linton' before, but reading it often over produced an impression which personified itself when I had no longer my imagination under control. Heathcliff gradually fell back into the shelter of the bed, as I spoke; finally sitting down almost concealed behind it. I guessed, however, by his irregular and intercepted breathing, that he struggled to vanquish an excess of violent emotion. Not liking to show him that I had heard the conflict, I continued my toilette rather noisily, looked at my watch, and soliloquised on the length of the night: 'Not three o'clock yet! I could have taken oath it had been six. Time stagnates here: we must surely have retired to rest at eight!'</br>
+我不知道是该回击他的话，还是继续我的解释，但是他的反应似乎非常强烈，我不得不同情得继续解说我得梦，并断言我从来没有听过“凯瑟琳·林顿”这样的名字，只是读的次数太多而在我的想象力失控的情况下赋予了它生命。在我解释的时候，希斯克利夫慢慢的退到床里面去了，最后坐了下来，几乎被床完全挡了起来。然而，通过他紊乱的呼吸声，我想他是在努力平息过于强烈的感情波动。不想让他知道我听见了他挣扎的声音，我继续穿衣服，还把声音弄得很响，看看表，自言自语得抱怨夜得长，“还不到三点！我以为已经六点了。时间静止不动：我们一定是在八点就准备睡觉了！”
+
+
+'Always at nine in winter, and rise at four,' said my host, suppressing a groan: and, as I fancied, by the motion of his arm's shadow, dashing a tear from his eyes. 'Mr. Lockwood,' he added, 'you may go into my room: you'll only be in the way, coming down- stairs so early: and your childish outcry has sent sleep to the devil for me.'
+</br>
+“冬天的时候都是九点，早上四点起床，”压住呻吟的声音，我的主人说道，而我通过他的手臂的影子的动作，猜想他是在擦眼角的泪水。“洛克伍德先生，”他继续说道，“你可以到我的房间去，只有这样，现在下楼太早了。你那孩子般的喊叫把我的睡意都吓跑了。”
+</br>
+'And for me, too,' I replied. 'I'll walk in the yard till daylight, and then I'll be off; and you need not dread a repetition of my intrusion. I'm now quite cured of seeking pleasure in society, be it country or town. A sensible man ought to find sufficient company in himself.'</br>
+“我也是，”我回答道，“我可以在院子里散步直到天亮，然后我就离开。而你也不必担心我还会再来打扰。我这不管是在城里还是在乡下都爱交朋友的毛病，现在毛病已经差不多被治好了。一个聪明的人应该在自己的身上找到足够多的朋友！”
+
+'Delightful company!' muttered Heathcliff. 'Take the candle, and go where you please. I shall join you directly. Keep out of the yard, though, the dogs are unchained; and the house - Juno mounts sentinel there, and - nay, you can only ramble about the steps and passages. But, away with you! I'll come in two minutes!'</br>
+“好朋友！”希斯克利夫说到，“拿着蜡烛，想去哪就去哪吧。我会直接去找你的。但是别到院子里去，因为狗没有用链子锁起来。而房间里――朱诺在那设了哨，啊，不， 你只能在台阶和走廊里走走。但是，走吧！我两分钟之后就来找你！”
+</br></br>
+I obeyed, so far as to quit the chamber; when, ignorant where the narrow lobbies led, I stood still, and was witness, involuntarily, to a piece of superstition on the part of my landlord which belied, oddly, his apparent sense. He got on to the bed, and wrenched open the lattice, bursting, as he pulled at it, into an uncontrollable passion of tears. 'Come in! come in!' he sobbed. 'Cathy, do come. Oh, do - ONCE more! Oh! my heart's darling! hear me THIS time, Catherine, at last!' The spectre showed a spectre's ordinary caprice: it gave no sign of being; but the snow and wind whirled wildly through, even reaching my station, and blowing out the light.</br>
+我顺从了，正当我要离开房间，而狭小的走廊不知道通向哪里，我站住了，无意间，在我的主人身上，我看见了一件非常奇怪的事情，掩盖了他的平日理智的迷信。他爬上床，猛力打开窗户，当他用力推时，不受控制的热泪哗的一下子流了下来，“进来！进来！”他啜泣道，“凯西，一定要进来。噢，请再进来一次！噢！我的心肝！最后，就听我一次吧！”鬼魂还是保持了鬼魂的反复无常：它没有给出任何要出来的迹象，只是雪和风呼呼的灌进来，甚至吹到了我站的地方，把蜡烛吹灭了。
+
+
+重点单词</br>
+uncontrollableadj. 无法控制的；无法管束的；难以驾驭的</br>
+pityn. 同情，怜悯，遗憾，可惜 v. 同情，怜悯</br>
+tearn. 眼泪，（撕破的）洞或裂缝，撕扯 vt. 撕掉，扯下</br>
+fell动词fall的过去式 n. 兽皮 vt. 砍伐，击倒 a</br>
+calculatedadj. 计算出的；适合的；有计划的 v. 计算；估计；</br>
+monotonousadj. 单调的</br>
+conflictn. 冲突，矛盾，斗争，战斗 vi. 冲突，争执，抵触</br>
+ignorantadj. 不知道的，无知的，愚昧的</br>
+apparentadj. 明显的，表面上的</br>
+resentvt. 恨，生气</br>
+</br></br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第17篇</h1>
+日期:2008-09-19 22:05
+(单词翻译:单击)
+
+There was such anguish in the gush of grief that accompanied this raving, that my compassion made me overlook its folly, and I drew off, half angry to have listened at all, and vexed at having related my ridiculous nightmare, since it produced that agony; though WHY was beyond my comprehension. I descended cautiously to the lower regions, and landed in the back-kitchen, where a gleam of fire, raked compactly together, enabled me to rekindle my candle. Nothing was stirring except a brindled, grey cat, which crept from the ashes, and saluted me with a querulous mew.
+
+
+随着这些语无伦次的话涌上来的悲伤让人觉得非常痛苦，而我对他的同情使得我并没有觉得他举止可笑。我退了出来，一半是非常气氛自己听了这些，另一半是懊恼自己讲了那个荒谬的恶魔，由于它才引发了如此巨大的痛苦，尽管我不明白为什么会这样。我小心翼翼的下到楼下厨房的后面，一堆火还闪着微弱的光，斜斜的堆在一起，我点上了我的蜡烛。除了一只有斑纹的灰猫从灰堆上爬起来，冲我不满的喵了一声外，真是万象具静啊。
+
+
+Two benches, shaped in sections of a circle, nearly enclosed the hearth; on one of these I stretched myself, and Grimalkin mounted the other. We were both of us nodding ere any one invaded our retreat, and then it was Joseph, shuffling down a wooden ladder that vanished in the roof, through a trap: the ascent to his garret, I suppose. He cast a sinister look at the little flame which I had enticed to play between the ribs, swept the cat from its elevation, and bestowing himself in the vacancy, commenced the operation of stuffing a three-inch pipe with tobacco. My presence in his sanctum was evidently esteemed a piece of impudence too shameful for remark: he silently applied the tube to his lips, folded his arms, and puffed away. I let him enjoy the luxury unannoyed; and after sucking out his last wreath, and heaving a profound sigh, he got up, and departed as solemnly as he came.
+
+在壁炉旁边，有两张成弧形的长椅子。我躺到一张上面，而那只老猫则躺到了另一张上。在没有任何人闯入我们的静地之前，我们两个都昏昏的睡着。这个人就是约瑟夫，他拖拖沓沓从消失在房顶的木梯上下来，木梯穿过一个活板门，我想是通向他的阁楼的。他恨恨的瞥了一眼我归集在拱门下微弱的火堆，把猫从长椅上赶走，自己坐了下来，往他那三英寸才的烟斗里填烟丝。很显然，他把我出现在他圣地的事，看作是非常羞于启齿的。他默默的把烟斗放到嘴里，双臂合抱，吐着烟圈。我让他享受着不被打扰的奢侈。他吐出最后一个烟圈，长长的叹了口气，站起来，然后跟他进来时一样严肃的离开。
+
+A more elastic footstep entered next; and now I opened my mouth for a 'good-morning,' but closed it again, the salutation unachieved; for Hareton Earnshaw was performing his orison SOTTO VOCE, in a series of curses directed against every object he touched, while he rummaged a corner for a spade or shovel to dig through the drifts. He glanced over the back of the bench, dilating his nostrils, and thought as little of exchanging civilities with me as with my companion the cat. I guessed, by his preparations, that egress was allowed, and, leaving my hard couch, made a movement to follow him. He noticed this, and thrust at an inner door with the end of his spade, intimating by an inarticulate sound that there was the place where I must go, if I changed my locality.
+
+接着，更有活力的脚步走了进来，而这次，我也开口道“早安”，但是没有人回应，我只好闭嘴。他在墙角的一堆杂物中找挖地用的铲子或铁锹的时候，开始轻声的进行他的祷告，其实是一连串的诅咒，诅咒每一件他碰到的东西。他扫了一眼长椅背，鼓了鼓鼻，根本没有要和我或是旁边的毛打招呼的意思。看他准备东西，我猜是大门开了，于是从硬邦邦的长椅上起来，准备跟着他走。他发现了，用他的铁铲头戳开一扇里门，口齿不清的说，如果我要换个地方的话，那才是我该去的地方。
+
+It opened into the house, where the females were already astir; Zillah urging flakes of flame up the chimney with a colossal bellows; and Mrs. Heathcliff, kneeling on the hearth, reading a book by the aid of the blaze. She held her hand interposed between the furnace-heat and her eyes, and seemed absorbed in her occupation; desisting from it only to chide the servant for covering her with sparks, or to push away a dog, now and then, that snoozled its nose overforwardly into her face. I was surprised to see Heathcliff there also. He stood by the fire, his back towards me, just finishing a stormy scene with poor Zillah; who ever and anon interrupted her labour to pluck up the corner of her apron, and heave an indignant groan.
+
+门通向起居室，女士们已经起来了。齐拉正在用力的拉一个巨大的风箱，让火燃得大一些；而希斯克利夫太太，则是跪在地上，借着火光看书。她的手介于炉子和她的眼睛之间，除了停下来训斥仆人把火星溅到她身上，或时不时驱赶把鼻子凑到她脸上的狗，她似乎完全沉醉在书中。奇怪的是，我看见希斯克利夫也在那里。他站在火旁，背对着我，刚刚对可怜的齐拉猛发了一通火，她被打断了手上的活，扯着围裙的一角，委屈的呜咽着。
+
+'And you, you worthless - ' he broke out as I entered, turning to his daughter-in-law, and employing an epithet as harmless as duck, or sheep, but generally represented by a dash - . 'There you are, at your idle tricks again! The rest of them do earn their bread - you live on my charity! Put your trash away, and find something to do. You shall pay me for the plague of having you eternally in my sight - do you hear, damnable jade?'
+
+
+“还有你，你这个没有用的——”他骂道，正巧我进去。是骂他儿媳的，用了一个绰号，虽然跟鸭子，绵羊一样无害，但是一般情况下都用破折号代替。“你又在这里游手好闲！其他的人都要干活，只有你是靠我的怜悯过日子！把你那没用的东西丢掉，干点什么事情。你得为我要永远忍受你的存在的痛苦付出点代价。你听见了吗？该死的荡妇？”
+
+'I'll put my trash away, because you can make me if I refuse,' answered the young lady, closing her book, and throwing it on a chair. 'But I'll not do anything, though you should swear your tongue out, except what I please!'
+
+“我会放下的，因为我拒绝的话，你会强迫我照你说的做的。”年轻的女士说着合上了她的书，并把它扔在了椅子上。“但是，我不会做任何事情，除非我愿意！”
+
+
+重点单词</br>
+refusev. 拒绝 n. 垃圾，废物 adj. 无用的</br>
+presencen. 出席，到场，存在 n. 仪态，风度</br>
+idleadj. 无目的的，无聊的; 懒惰的，闲散的; 无根据的</br>
+rekindlev. 重新点燃</br>
+movementn. 活动，运动，移动，[音]乐章</br>
+touchedadj. 受感动的 adj. 精神失常的</br>
+ascentn. 上升，上坡路，晋升，提升，追溯</br>
+dashv. 猛冲，猛掷，泼溅 n. 猛冲，破折号，冲，短跑</br>
+retreatn. 休息寓所，撤退，隐居 v. 撤退，向后倾</br>
+benchn. 长凳，工作台，法官席 vt. 坐</br>
+</br></br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第18篇</h1>
+日期:2008-09-19 22:07
+(单词翻译:单击)
+
+Heathcliff lifted his hand, and the speaker sprang to a safer distance, obviously acquainted with its weight. Having no desire to be entertained by a cat-and-dog combat, I stepped forward briskly, as if eager to partake the warmth of the hearth, and innocent of any knowledge of the interrupted dispute. Each had enough decorum to suspend further hostilities: Heathcliff placed his fists, out of temptation, in his pockets; Mrs. Heathcliff curled her lip, and walked to a seat far off, where she kept her word by playing the part of a statue during the remainder of my stay. That was not long. I declined joining their breakfast, and, at the first gleam of dawn, took an opportunity of escaping into the free air, now clear, and still, and cold as impalpable ice.
+
+
+希斯克利夫扬起了手，说话者（希斯克利夫太太）立即跳道了安全距离外，很明显，她非常熟悉这只手的分量。没有兴趣再看这种阿猫阿狗的斗争，我急步走上前，仿佛是急于享受壁炉的温暖，仿佛对被打断的真论一无所知。两人都足够礼貌的控制住了进一步的争吵：希斯克利夫的拳头离开了他的目标，放回到口袋里，而希斯克利夫太太也闭上了嘴，走向远处的一张椅子，她守信地坐在那里，像雕像一样，一直到我离去。不过，时间不长。我拒绝了和他们共进早餐，天一亮我抓住机会就跑到外面去了，晴朗，无风，而寒冷就像不可触及的冰。
+
+My landlord halloed for me to stop ere I reached the bottom of the garden, and offered to accompany me across the moor. It was well he did, for the whole hill-back was one billowy, white ocean; the swells and falls not indicating corresponding rises and depressions in the ground: many pits, at least, were filled to a level; and entire ranges of mounds, the refuse of the quarries, blotted from the chart which my yesterday's walk left pictured in my mind. I had remarked on one side of the road, at intervals of six or seven yards, a line of upright stones, continued through the whole length of the barren: these were erected and daubed with lime on purpose to serve as guides in the dark, and also when a fall, like the present, confounded the deep swamps on either hand with the firmer path: but, excepting a dirty dot pointing up here and there, all traces of their existence had vanished: and my companion found it necessary to warn me frequently to steer to the right or left, when I imagined I was following, correctly, the windings of the road.
+
+在我快到花园尽头的时候，我的房东“嘿”了我一声，表示愿意陪同我走出沼泽地。他这样做很好，因为整个山脊就像一个巨浪，白色的海洋，起伏并不是和地面的起伏一致。至少，很多深坑都被填平了；如采石厂垃圾上的堆积起来了一个巨大的雪堆，掩盖了我记在心里的昨天来的路线——我每隔六七码就用一排垂直的石头在路的一侧做上记号，直到走出荒地：它们都立着，上面有用石灰涂的记号，便于在黑色中辨认，如果遇到像今天这样的下雪，困在两边都是深深的沼泽地里也会有条好路刻走。但是，除了，一个个的黑点不时的出现在某处，它们已经被完全掩盖了。当我认为我所走的弯弯曲曲的路线是正确的时，我的同伴发现有必要频繁的提醒我，直走，靠右，或是靠左。
+
+We exchanged little conversation, and he halted at the entrance of Thrushcross Park, saying, I could make no error there. Our adieux were limited to a hasty bow, and then I pushed forward, trusting to my own resources; for the porter's lodge is untenanted as yet. The distance from the gate to the grange is two miles; I believe I managed to make it four, what with losing myself among the trees, and sinking up to the neck in snow: a predicament which only those who have experienced it can appreciate. At any rate, whatever were my wanderings, the clock chimed twelve as I entered the house; and that gave exactly an hour for every mile of the usual way from Wuthering Heights.
+
+我们没有怎么说话。他在画眉山庄的入口处停了下来，并警告我不要在那里犯什么错误。我们的道别只是匆匆的点了点头，然后我继续向前走，凭借我自己的判断力，因为山门守卫的房间还没有租出去。从山门到山庄有两英里。我觉得我把它变成了四英里，我在树林里米了路，雪没到了脖子：这种困境只有经历过的人才能体会。不关怎么样，无论我迂回了多少路，我在两点的时候回到了家中。相当于平常去呼啸山庄，每小时只走了一英里路。
+
+My human fixture and her satellites rushed to welcome me; exclaiming, tumultuously, they had completely given me up: everybody conjectured that I perished last night; and they were wondering how they must set about the search for my remains. I bid them be quiet, now that they saw me returned, and, benumbed to my very heart, I dragged up-stairs; whence, after putting on dry clothes, and pacing to and fro thirty or forty minutes, to restore the animal heat, I adjourned to my study, feeble as a kitten: almost too much so to enjoy the cheerful fire and smoking coffee which the servant had prepared for my refreshment.
+
+我的管家和仆人都跑出来迎接我。七嘴八舌的说，他们已经完全放弃我了，每个人都认为我昨天晚上已经死了，而且他们正在想怎样组织搜寻队去找我的尸体。我请他们安静下来，现在他们看见我回来了，而且心都快给冻僵了，我疲惫的到楼上去。然后，换上干衣服，来来回回的走了三四十分钟，以回暖身体。我走到我的书房，感觉如同小猫般虚弱：几乎无法享受炉火的热量和仆人为我准备的用于恢复精神的冒着热气的咖啡。
+
+重点单词</br>
+minutesn. 会议记录，(复数)分钟</br>
+innocentadj. 清白的，无辜的，无害的，天真纯洁的，无知的</br>
+companionn. 同伴，同事，成对物品之一，(船的)甲板间扶梯(或扶</br>
+acquaintedadj. 有知识的，熟悉的，了解的 动词acquaint</br>
+limitedadj. 有限的，被限制的 动词limit的过去式和过去</br>
+predicamentn. 状态，穷境，困局</br>
+impalpableadj. 感触不到的，难以理解的</br>
+suspendv. 推迟，悬挂，暂停，勒令停职</br>
+froadv. 向那边，向后，离开，回来</br>
+cheerfuladj. 高兴的，快乐的</br>
+</br></br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第19篇</h1>
+日期:2008-09-20 23:06
+(单词翻译:单击)
+
+WHAT vain weathercocks we are! I, who had determined to hold myself independent of all social intercourse, and thanked my stars that, at length, I had lighted on a spot where it was next to impracticable - I, weak wretch, after maintaining till dusk a struggle with low spirits and solitude, was finally compelled to strike my colours; and under pretence of gaining information concerning the necessities of my establishment, I desired Mrs. Dean, when she brought in supper, to sit down while I ate it; hoping sincerely she would prove a regular gossip, and either rouse me to animation or lull me to sleep by her talk.
+
+我们是多么虚伪的反复无常的人啊！我，一个曾决定要远离所有社交活动的人，不久之后，却在为自己的决定几乎不可能实现而感到幸运。我，一个软弱而不幸的人，挣扎于低落的情绪和孤独之中，直到黄昏时刻不得不放弃这个计划。当迪安太太送晚饭上来时，我假装是想了解一些仆人的必要情况，邀请她坐下来。希望她的喜欢闲聊的人，要么让我精神焕发，要么让我昏昏欲睡。
+
+
+next to impossible ----- almost impossible.
+Thanked my stars that, at length, I had lighted on a spot where it was next to impracticalbe --- after a period of time, I feel lucy that I am in a position of impossible to (keep the word)
+Strike one’s colours --- to give up a plan previously set
+
+
+’You have lived here a considerable time,’ I commenced; ’did you not say sixteen years?’
+“你在这里住了相当长时间了，”我问道，“好像你说过是16年？”
+
+’Eighteen, sir: I came when the mistress was married, to wait on her; after she died, the master retained me for his housekeeper.’
+“18年，先生。我是在女主人嫁过来的时候来的，是来伺候她的。她死了之后，主人让我留下来做管家。”
+
+’Indeed.’
+“真的吗？”
+
+There ensued a pause. She was not a gossip, I feared; unless about her own affairs, and those could hardly interest me. However, having studied for an interval, with a fist on either knee, and a cloud of meditation over her ruddy countenance, she ejaculated -
+’Ah, times are greatly changed since then!’
+接下来无话。我担心她不是一个喜欢闲聊的人，或是只会聊她自己，或是我根本就不感兴趣的事情。然而，她想了一会，双拳放于膝盖上，红润的脸庞上蒙上了沉思，突然，她说道，“唉，自那以后事情就大变样了！”
+
+’Yes,’ I remarked, ’you’ve seen a good many alterations, I suppose?’
+“是吗，”我说，“我想，你肯定目睹了很多变化。”
+
+’I have: and troubles too,’ she said.
+“是的，还有很多变故。”
+
+’Oh, I’ll turn the talk on my landlord’s family!’ I thought to myself. ’A good subject to start! And that pretty girl-widow, I should like to know her history: whether she be a native of the country, or, as is more probable, an exotic that the surly INDIGENAE will not recognise for kin.’ With this intention I asked Mrs. Dean why Heathcliff let Thrushcross Grange, and preferred living in a situation and residence so much inferior. ’Is he not rich enough to keep the estate in good order?’ I inquired.
+“啊，我要把话题引到房东身上去！”我暗自想到，“要找个好的话题。还有那个漂亮的年轻寡妇，我很想知道她的过去。她是不是本地人，或者更可能是一个本地人根本就不认可的外来者。”怀着这个想法，我问迪安太太为什么希斯克利夫要出租画眉山庄，而自己却住在条件差了很多的地方。“难道是他没有足够的钱来维持他的房产？”我问道。
+
+’Rich, sir!’ she returned. ’He has nobody knows what money, and every year it increases. Yes, yes, he’s rich enough to live in a finer house than this: but he’s very near - close-handed; and, if he had meant to flit to Thrushcross Grange, as soon as he heard of a good tenant he could not have borne to miss the chance of getting a few hundreds more. It is strange people should be so greedy, when they are alone in the world!’
+“有钱，先生！”她回答道。“任何人都不知道他有多少钱，但是每年都在增加。是的，是的，他有足够的钱住到比这更好的房子里去，但是他的手却很紧。如果他曾经打算搬到画眉山庄来住，一旦他听说有好的房客，他就舍不得错过多赚几百块钱的机会。一个无亲无故的人还这么贪婪，真的是很奇怪啊！”
+
+’He had a son, it seems?’
+“好像，他有个儿子？”
+
+’Yes, he had one - he is dead.
+是的，他曾经有个，已经死了
+
+
+重点单词</br>
+rousev. 唤醒，鼓舞，激起 n. 觉醒，奋起</br>
+socialadj. 社会的，社交的 n. 社交聚会</br>
+residencen. 住处，住宅，居住</br>
+flitvi. 轻快地飞；掠过；移居 n. 轻快的飞行；搬家</br>
+determinedadj. 坚毅的，下定决心的</br>
+exoticadj. 异国的，外来的，奇异的，脱衣舞的 n. (复数</br>
+estaten. 财产，房地产，状态，遗产</br>
+impossibleadj. 不可能的，做不到的 adj. 无法忍受的</br>
+countenancen. 面容，面部表情，支持</br>
+intentionn. 意图，意向，目的</br>
+</br></br>
+
+<h1>名著《呼啸山庄》中英文对照翻译 第20篇</h1>
+日期:2008-09-20 23:09
+(单词翻译:单击)
+
+'And that young lady, Mrs. Heathcliff, is his widow?'
+
+“那，那个年轻的女子，希斯克利夫太太就是他的遗孀了？”
+
+'Yes.'
+
+“是的。”
+
+'Where did she come from originally?'
+
+“她是哪里人呢？”
+
+'Why, sir, she is my late master's daughter: Catherine Linton was her maiden name. I nursed her, poor thing! I did wish Mr. Heathcliff would remove here, and then we might have been together again.'
+
+“什么？先生，她是先主人的女儿。做姑娘时的名字是凯瑟琳·林顿。我是她的保姆，可怜的孩子！我曾经希望希斯克利夫先生从这里搬走，这样我们又可以在一起。”
+
+'What! Catherine Linton?' I exclaimed, astonished. But a minute's reflection convinced me it was not my ghostly Catherine. Then,' I continued, 'my predecessor's name was Linton?'
+
+“什么! 凯瑟琳·林顿?”我惊呼道，感到非常震惊。但转念一想，我相信这不是鬼魂凯瑟琳。然后，我继续说道，“那我的前任房客是姓林顿的？”
+
+'It was.'
+
+“的确是。”
+
+'And who is that Earnshaw: Hareton Earnshaw, who lives with Mr. Heathcliff? Are they relations?'
+
+“那恩肖又是谁呢？和希斯克利夫住在一起的那个海尔顿·恩肖？他们是亲戚吗？”
+
+'No; he is the late Mrs. Linton's nephew.'
+
+“不，他是先林顿太太的侄子。”
+
+'The young lady's cousin, then?'
+
+“那就是那位年轻女士的堂兄弟了？”
+
+'Yes; and her husband was her cousin also: one on the mother's, the other on the father's side: Heathcliff married Mr. Linton's sister.'
+
+“是的。她的丈夫也是她的堂兄弟。只不过一个是她妈妈那边的亲戚，一个是她爸爸那边的亲戚。因为希斯克利夫娶了林顿先生的妹妹。”
+
+'I see the house at Wuthering Heights has "Earnshaw" carved over the front door. Are they an old family?'
+
+“我看见呼啸山庄的前门上刻有‘恩肖’字样，是个很老的家族了吧？”
+
+'Very old, sir; and Hareton is the last of them, as our Miss Cathy is of us - I mean, of the Lintons. Have you been to Wuthering Heights? I beg pardon for asking; but I should like to hear how she is!'
+
+“非常古老，先生。而海尔顿是最后一个，因为凯西小姐算是我们这边的，我指的是林顿家族。你去过呼啸山庄了？我要请问一下，我很想知道她现在怎么样？”
+
+'Mrs. Heathcliff? she looked very well, and very handsome; yet, I think, not very happy.'
+
+“希斯克利夫太太？她看上去很好，很漂亮，但是，我想，不是很快乐。”
+
+'Oh dear, I don't wonder! And how did you like the master?'
+
+“哦，我不觉得奇怪！你觉得主人怎么样？”
+
+'A rough fellow, rather, Mrs. Dean. Is not that his character?
+
+“一个很粗的家伙，相当粗。迪安太太，他一直都是这样的性格吗？”
+
+'Rough as a saw-edge, and hard as whinstone! The less you meddle with him the better.'
+
+“跟锯齿一样粗糙，像燧石一样的硬！你最好别和他往来。”
+
+'He must have had some ups and downs in life to make him such a churl. Do you know anything of his history?'
+
+“他一定经历了很多起起落落才形成了变成了如此粗鲁的人。你知道他的过去吗？”
+
+'It's a cuckoo's, sir - I know all about it: except where he was born, and who were his parents, and how he got his money at first. And Hareton has been cast out like an unfledged dunnock! The unfortunate lad is the only one in all this parish that does not guess how he has been cheated.'</br>
+“这是一个杜鹃的故事，先生。除了不知道他生于何地，父母是谁，他怎么发的第一笔财，其余的我都知道。海尔顿就像羽毛未丰的鸟雀一样被驱逐了！这个可怜的小伙子是这个教区中唯一不知道自己被欺骗了的人。</br>
+'Well, Mrs. Dean, it will be a charitable deed to tell me something of my neighbours: I feel I shall not rest if I go to bed; so be good enough to sit and chat an hour.'</br>
+“那么，迪安太太，如果你能告诉我一些关于我邻居的事情真实太好了。因为我觉得现在我也睡不着，还不如坐在这里和你聊上一个小时。”
+
+
+重点单词</br>
+deedn. 事迹，行为，[法]契约 vt. 立契转让 a</br>
+exceptvt. 除，除外 prep. & conj. 除了 ..</br>
+convincedadj. 信服的</br>
+unfortunateadj. 不幸的，令人遗憾的，不成功的 n. 不幸的人</br>
+reflectionn. 反映，映像，折射，沉思，影响</br>
+roughadj. 粗糙的，粗略的，粗暴的，艰难的，讨厌的，不适的</br>
+castv. 投，掷，抛，铸造，丢弃，指定演员，加起来，投射(目</br>
+astonishedadj. 惊讶的 动词astonish的过去式和过去分词</br>
+charitableadj. 仁慈的，(为)慈善事业的，宽恕的</br>
+removev. 消除，除去，脱掉，搬迁 n. </br>
