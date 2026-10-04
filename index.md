@@ -30,6 +30,7 @@ Joseph was an elderly, nay, an old man: very old, perhaps, though hale and sinew
 约瑟夫是已经年过中年，不，应当是一个老人，尽管强壮有力，但是非常的老。“主保佑我们，”当牵过我的马时，他愤愤的小声嘟哝，同时烦躁地盯着我的脸以至于我大方地推测他一定是需要神的帮助来消化他的晚餐，而他突然迸发处来的虔诚的祷告与我的不期而来是毫不相关。
 
 重点单词
+
 troubledadj. 动乱的，不安的；混乱的；困惑的 
 
 reflectionn. 反映，映像，折射，沉思，影响 
@@ -49,6 +50,7 @@ cattlen. 牛，家畜，畜牲
 desolationn. 荒芜，荒废，荒凉 
 
 barriern. 界线，屏障，栅栏，障碍物 
+
 
 
 
@@ -77,16 +79,29 @@ By this curious turn of disposition I have gained the reputation of deliberate h
 因为这次奇怪的性情转变，我得了个故意负心的名声；当我一个人的时候，我就认为多么不值得啊。
 
 重点单词
+
 chordn. 弦，和音，情绪 
+
 singularadj. 个人的，单数的，独一的，唯一的，非凡的 n. 
+
 glancev. 一瞥，扫视，匆匆一看，反光，闪烁，掠过 n. 一瞥 
+
 archn. 拱，拱门，拱状物 v. 成拱形，拱起 adj. 主 
+
 framen. 框，结构，骨架 v. 构成，把 ... 框起来，陷 
+
 kitchenn. 厨房，(全套)炊具，灶间 
+
 extraordinaryadj. 非凡的，特别的，特派的 
+
 wildernessn. 荒野，荒地 
+
 excessiveadj. 过多的，过分的 
+
 vastadj. 巨大的，广阔的 n. 浩瀚的 
+
+
+
 
 
 
@@ -118,8 +133,6 @@ Mr. Heathcliff and his man climbed the cellar steps with vexatious phlegm: I don
 
 'What the devil is the matter?' he asked, eyeing me in a manner that I could ill endure after this inhospitable treatment.
 “见什么鬼了？”见我在他不友善的对待后，处于一种无法忍受的状态下，他问道。
-
-
 
 
 'What the devil, indeed!' I muttered. 'The herd of possessed swine could have had no worse spirits in them than those animals of yours, sir. You might as well leave a stranger with a brood of tigers!'
@@ -157,16 +170,28 @@ He evidently wished no repetition of my intrusion. I shall go, notwithstanding. 
 
 
 重点单词
+
 understandvt. 理解，懂，听说，获悉，将 ... 理解为，认为 
+
 amusementn. 娱乐，消遣 
+
 snatchn. 抢夺，碎片，一阵，一瞬间，一点点 v. 夺取，抢劫 
+
 countenancen. 面容，面部表情，支持 
+
 repetitionn. 重复，反复 
+
 astonishingadj. 惊人的 动词astonish的现在分词 
+
 pledgen. 保证，誓言，抵押，抵押品 vt. 保证，发誓，以 
+
 interposev. 插入，插嘴，介于 ... 之间 
+
 swinen. 猪 
+
 tacitadj. 心照不宣的 
+
+
 
 
 
@@ -203,13 +228,150 @@ On that bleak hill-top the earth was hard with a black frost, and the air made m
 
 
 重点单词
+
 bleakadj. 萧瑟的，严寒的，阴郁的 
+
 projectedadj. 投影的，投射 v. 投射（project的过去 
+
 churlishadj. 粗野的，举止粗俗的，难对付的 
+
 speciesn. （单复同）物种，种类 
+
 limbn. 枝干，树枝，肢体 vt. 切断(树枝，手足) 
+
 removev. 消除，除去，脱掉，搬迁 n. 去除，间距 
+
 requestn. 要求，请求 vt. 请求，要求 
+
 mistyadj. 有雾的，模糊的，含糊的 
+
 perpetualadj. 永恒的，永久的，一再往复的 
+
 deservevi. 应该得到 vt. 应受，值得 
+
+
+
+
+名著《呼啸山庄》中英文对照翻译 第5篇
+日期:2008-09-16 21:18
+(单词翻译:单击)
+
+The snow began to drive thickly. I seized the handle to essay another trial; when a young man without coat, and shouldering a pitchfork, appeared in the yard behind. He hailed me to follow him, and, after marching through a wash-house, and a paved area containing a coal-shed, pump, and pigeon-cot, we at length arrived in the huge, warm, cheerful apartment where I was formerly received. It glowed delightfully in the radiance of an immense fire, compounded of coal, peat, and wood; and near the table, laid for a plentiful evening meal, I was pleased to observe the 'missis,' an individual whose existence I had never previously suspected. I bowed and waited, thinking she would bid me take a seat. She looked at me, leaning back in her chair, and remained motionless and mute.
+
+雪开始下大了。我抓住插销，企图再来一次。这时一个没有穿外套，肩上抗着干草叉的年青人出现在后面的院子里。他招呼我跟他走。再穿过了一个洗衣房，和一个堆着煤皮，水泵，还有鸽子笼的区域后，最后我们进到了宽敞的、暖和的，舒适的房间里，我曾经再这里被接待过，在煤、泥煤和木头混合燃烧产生的极大的火焰的烘烤之下，房间里非常的温暖。桌子旁边摆放着非常丰盛的晚餐。我非常高兴见到所谓的“太太”，我海从来没有看见过她呢。我鞠躬施礼，以为她会请我坐下。然而，她看着我，靠在她的椅子的后背上，仍然面无表情，沉默无语。
+
+
+
+'Rough weather!' I remarked. 'I'm afraid, Mrs. Heathcliff, the door must bear the consequence of your servants' leisure attendance: I had hard work to make them hear me.'
+
+“天气真是很槽糕！”我说，“抱歉，希斯克利夫太太，你的地板必须要承担你的仆人不开门的后果了：我已经非常用力地喊以便让他们能听见。”
+
+
+She never opened her mouth. I stared - she stared also: at any rate, she kept her eyes on me in a cool, regardless manner, exceedingly embarrassing and disagreeable.
+
+她根本不开口说话。我瞪眼，她也瞪眼：但是无论什么情况下，她看我的目光都是冷冷的，漠不关心的样子，让我觉得非常的尴尬和不舒服。
+
+
+'Sit down,' said the young man, gruffly. 'He'll be in soon.'
+
+“坐下，”那年青人粗暴地说，“他一会就来了。”
+
+
+I obeyed; and hemmed, and called the villain Juno, who deigned, at this second interview, to move the extreme tip of her tail, in token of owning my acquaintance.
+
+我顺从地坐下来，清了清嗓子，又跟那个恶女人打招呼，而这次，她屈尊动了动她辫子的最末稍，表示接受我为熟人。
+
+
+'A beautiful animal!' I commenced again. 'Do you intend parting with the little ones, madam?'
+
+“很漂亮的动物！”我再次开口，“你准备好要同这些小东西分开了吗？夫人？”
+
+'They are not mine,' said the amiable hostess, more repellingly than Heathcliff himself could have replied.
+
+“它们不是我的。”和善的女主人说道，比希斯克利夫的回答还让人不愉快。
+
+
+'Ah, your favourites are among these?' I continued, turning to an obscure cushion full of something like cats.
+
+“啊，你最喜欢的在这里面吗？”当看见一个发霉的垫子里挤满了像猫一样的东西，我又继续说道。
+
+'A strange choice of favourites!' she observed scornfully.
+
+“很特别的心爱之物！”她很轻蔑的回答。
+
+
+Unluckily, it was a heap of dead rabbits. I hemmed once more, and drew closer to the hearth, repeating my comment on the wildness of the evening.
+
+不巧的是，那是一堆死兔子。我又清了清嗓子，走到更靠近壁炉的地方，重复我对空旷夜晚的评论。
+
+
+'You should not have come out,' she said, rising and reaching from the chimney-piece two of the painted canisters.
+
+“你不该出来的，”她说着站起来，从烟囱烟囱上拿下两个漆过的咖啡杯。
+
+
+Her position before was sheltered from the light; now, I had a distinct view of her whole figure and countenance. She was slender, and apparently scarcely past girlhood: an admirable form, and the most exquisite little face that I have ever had the pleasure of beholding; small features, very fair; flaxen ringlets, or rather golden, hanging loose on her delicate neck; and eyes, had they been agreeable in expression, that would have been irresistible: fortunately for my susceptible heart, the only sentiment they evinced hovered between scorn and a kind of desperation, singularly unnatural to be detected there. The canisters were almost out of her reach; I made a motion to aid her; she turned upon me as a miser might turn if any one attempted to assist him in counting his gold.
+
+之前，她所处的位置在背光的地方；现在，我看清楚了她的体形和面容。她很苗条，明显还处于少女的年龄阶段：长得极好，看着这张非常精致的脸让我感到从未有过的荣幸。五官，非常端正；黄色的发卷，或者说是金色的发卷散落在她精巧的脖子旁边；眼睛，如果它们在表达恰当，那将宁人难以拒绝。幸运的是，对于我易受感动的心而言，它们所表示的唯一情感盘旋在蔑视和绝望之间，可以发现异乎寻常的不自然。她几乎够不着咖啡杯；我没有做出任何要帮她的动作；她转向我，就像一个守财奴在别人想要帮他数金币一样。
+
+
+'I don't want your help,' she snapped; 'I can get them for myself.'
+
+“我不要你的帮忙，”她突然说，“我自己可以拿到的。”
+
+
+'I beg your pardon!' I hastened to reply.
+
+“抱歉，你说什么啊？”我忙回答道。
+
+
+'Were you asked to tea?' she demanded, tying an apron over her neat black frock, and standing with a spoonful of the leaf poised over the pot.
+
+“有人邀请你喝茶了吗？”她问，随即将围裙系到她整洁的黑色外衣上，取出一勺子茶叶放到壶中。
+
+
+'I shall be glad to have a cup,' I answered.
+
+“我很乐意喝一杯。”我回答道。
+
+
+'Were you asked?' she repeated.
+
+“有人邀请你吗？”她又问道。
+
+
+'No,' I said, half smiling. 'You are the proper person to ask me.'
+
+“没有，”我说，微微笑笑。“你是邀请我的合适人选。”
+
+
+She flung the tea back, spoon and all, and resumed her chair in a pet; her forehead corrugated, and her red under-lip pushed out, like a child's ready to cry.
+
+她把茶扔了回去，勺子和其他的东西也都被扔了回去，不高兴地坐回到她的椅子上；她的眉头皱了起来，红红的下唇瘪了出来，就像一个要哭的孩子。
+
+
+重点单词
+
+figuren. 图形，数字，形状; 人物，外形，体型 v. 演算，
+
+singularlyadv. 异常地；非常地；令人无法理解地
+
+misern. 守财奴，吝啬鬼
+
+villainn. 坏人，恶根 n. 罪犯
+
+spoonn. 匙，调羹，匙状物 vt. 以匙舀起 vi. 调情
+
+amiableadj. 和蔼的，亲切的
+
+handlen. 柄，把手 v. 买卖，处理，操作，驾驭
+
+muten. 哑子，默音字母，弱音器 adj. 哑的，无声的，沉
+
+trialadj. 尝试性的; 审讯的 n. 尝试，努力，试验，试
+
+acquaintancen. 熟人，相识，了解
+
+
+
+
