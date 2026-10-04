@@ -30,16 +30,16 @@ Joseph was an elderly, nay, an old man: very old, perhaps, though hale and sinew
 约瑟夫是已经年过中年，不，应当是一个老人，尽管强壮有力，但是非常的老。“主保佑我们，”当牵过我的马时，他愤愤的小声嘟哝，同时烦躁地盯着我的脸以至于我大方地推测他一定是需要神的帮助来消化他的晚餐，而他突然迸发处来的虔诚的祷告与我的不期而来是毫不相关。
 
 重点单词
-troubledadj. 动乱的，不安的；混乱的；困惑的
-reflectionn. 反映，映像，折射，沉思，影响
-stirn. 感动(激动，愤怒或震动), 搅拌，骚乱 vt. 激
-occupationn. 职业，侵占，居住
-displeasuren. 不愉快，不高兴
-hinderadj. 后面的 vt. 阻碍，打扰 vi. 阻碍
-withdrawvt. 撤回，取回，撤退 vi. 退回，撤退，走开
-cattlen. 牛，家畜，畜牲
-desolationn. 荒芜，荒废，荒凉
-barriern. 界线，屏障，栅栏，障碍物
+troubledadj. 动乱的，不安的；混乱的；困惑的 
+reflectionn. 反映，映像，折射，沉思，影响 
+stirn. 感动(激动，愤怒或震动), 搅拌，骚乱 vt. 激 
+occupationn. 职业，侵占，居住 
+displeasuren. 不愉快，不高兴 
+hinderadj. 后面的 vt. 阻碍，打扰 vi. 阻碍 
+withdrawvt. 撤回，取回，撤退 vi. 退回，撤退，走开 
+cattlen. 牛，家畜，畜牲 
+desolationn. 荒芜，荒废，荒凉 
+barriern. 界线，屏障，栅栏，障碍物 
 
 
 
@@ -67,16 +67,16 @@ By this curious turn of disposition I have gained the reputation of deliberate h
 因为这次奇怪的性情转变，我得了个故意负心的名声；当我一个人的时候，我就认为多么不值得啊。
 
 重点单词
-chordn. 弦，和音，情绪
-singularadj. 个人的，单数的，独一的，唯一的，非凡的 n.
-glancev. 一瞥，扫视，匆匆一看，反光，闪烁，掠过 n. 一瞥
-archn. 拱，拱门，拱状物 v. 成拱形，拱起 adj. 主
-framen. 框，结构，骨架 v. 构成，把 ... 框起来，陷
-kitchenn. 厨房，(全套)炊具，灶间
-extraordinaryadj. 非凡的，特别的，特派的
-wildernessn. 荒野，荒地
-excessiveadj. 过多的，过分的
-vastadj. 巨大的，广阔的 n. 浩瀚的
+chordn. 弦，和音，情绪 
+singularadj. 个人的，单数的，独一的，唯一的，非凡的 n. 
+glancev. 一瞥，扫视，匆匆一看，反光，闪烁，掠过 n. 一瞥 
+archn. 拱，拱门，拱状物 v. 成拱形，拱起 adj. 主 
+framen. 框，结构，骨架 v. 构成，把 ... 框起来，陷 
+kitchenn. 厨房，(全套)炊具，灶间 
+extraordinaryadj. 非凡的，特别的，特派的 
+wildernessn. 荒野，荒地 
+excessiveadj. 过多的，过分的 
+vastadj. 巨大的，广阔的 n. 浩瀚的 
 
 
 
@@ -147,16 +147,16 @@ He evidently wished no repetition of my intrusion. I shall go, notwithstanding. 
 
 
 重点单词
-understandvt. 理解，懂，听说，获悉，将 ... 理解为，认为
-amusementn. 娱乐，消遣
-snatchn. 抢夺，碎片，一阵，一瞬间，一点点 v. 夺取，抢劫
-countenancen. 面容，面部表情，支持
-repetitionn. 重复，反复
-astonishingadj. 惊人的 动词astonish的现在分词
-pledgen. 保证，誓言，抵押，抵押品 vt. 保证，发誓，以
-interposev. 插入，插嘴，介于 ... 之间
-swinen. 猪
-tacitadj. 心照不宣的
+understandvt. 理解，懂，听说，获悉，将 ... 理解为，认为 
+amusementn. 娱乐，消遣 
+snatchn. 抢夺，碎片，一阵，一瞬间，一点点 v. 夺取，抢劫 
+countenancen. 面容，面部表情，支持 
+repetitionn. 重复，反复 
+astonishingadj. 惊人的 动词astonish的现在分词 
+pledgen. 保证，誓言，抵押，抵押品 vt. 保证，发誓，以 
+interposev. 插入，插嘴，介于 ... 之间 
+swinen. 猪 
+tacitadj. 心照不宣的 
 
 
 
@@ -182,27 +182,24 @@ On that bleak hill-top the earth was hard with a black frost, and the air made m
 'Is there nobody inside to open the door?' I hallooed, responsively.
 “里面没有人可以开门吗？”我大声回喊道。
 
-
 'There's nobbut t' missis; and shoo'll not oppen 't an ye mak' yer flaysome dins till neeght.'
 “没有人，只有太太在家，就算你吵到晚上，她也不会开门的。”
 
-
 'Why? Cannot you tell her whom I am, eh, Joseph?'
 “为什么？你就不能告诉她我是谁吗？啊，约瑟夫？”
-
 
 'Nor-ne me! I'll hae no hend wi't,' muttered the head, vanishing.
 “我不会，这事和我没有关系。”他缩回头，不见了。
 
 
 重点单词
-bleakadj. 萧瑟的，严寒的，阴郁的
-projectedadj. 投影的，投射 v. 投射（project的过去
-churlishadj. 粗野的，举止粗俗的，难对付的
-speciesn. （单复同）物种，种类
-limbn. 枝干，树枝，肢体 vt. 切断(树枝，手足)
-removev. 消除，除去，脱掉，搬迁 n. 去除，间距
-requestn. 要求，请求 vt. 请求，要求
-mistyadj. 有雾的，模糊的，含糊的
-perpetualadj. 永恒的，永久的，一再往复的
-deservevi. 应该得到 vt. 应受，值得
+bleakadj. 萧瑟的，严寒的，阴郁的 
+projectedadj. 投影的，投射 v. 投射（project的过去 
+churlishadj. 粗野的，举止粗俗的，难对付的 
+speciesn. （单复同）物种，种类 
+limbn. 枝干，树枝，肢体 vt. 切断(树枝，手足) 
+removev. 消除，除去，脱掉，搬迁 n. 去除，间距 
+requestn. 要求，请求 vt. 请求，要求 
+mistyadj. 有雾的，模糊的，含糊的 
+perpetualadj. 永恒的，永久的，一再往复的 
+deservevi. 应该得到 vt. 应受，值得 
