@@ -30,16 +30,27 @@ Joseph was an elderly, nay, an old man: very old, perhaps, though hale and sinew
 约瑟夫是已经年过中年，不，应当是一个老人，尽管强壮有力，但是非常的老。“主保佑我们，”当牵过我的马时，他愤愤的小声嘟哝，同时烦躁地盯着我的脸以至于我大方地推测他一定是需要神的帮助来消化他的晚餐，而他突然迸发处来的虔诚的祷告与我的不期而来是毫不相关。
 
 重点单词
+
 troubledadj. 动乱的，不安的；混乱的；困惑的 
+
 reflectionn. 反映，映像，折射，沉思，影响 
+
 stirn. 感动(激动，愤怒或震动), 搅拌，骚乱 vt. 激 
+
 occupationn. 职业，侵占，居住 
+
 displeasuren. 不愉快，不高兴 
+
 hinderadj. 后面的 vt. 阻碍，打扰 vi. 阻碍 
+
 withdrawvt. 撤回，取回，撤退 vi. 退回，撤退，走开 
+
 cattlen. 牛，家畜，畜牲 
+
 desolationn. 荒芜，荒废，荒凉 
+
 barriern. 界线，屏障，栅栏，障碍物 
+
 
 
 
