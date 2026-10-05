@@ -3,7 +3,7 @@
 (单词翻译:单击)
 
 <b>I have just returned from a visit to my landlord - the solitary neighbour that I shall be troubled with. This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society. A perfect misanthropist's heaven: and Mr. Heathcliff and I are such a suitable pair to divide the desolation between us. A capital fellow! He little imagined how my heart warmed towards him when I beheld his black eyes withdraw so suspiciously under their brows, as I rode up, and when his fingers sheltered themselves, with a jealous resolution, still further in his waistcoat, as I announced my name.</b>
-<br/>
+<br>
 我刚刚拜访了我的房东－－一个孤独的且将给我带来麻烦的邻居。这的确是非常漂亮的乡村！在英格兰，我认为找不到比这更远离社会喧嚣的地方了。这里是隐居者的完美天堂，而分享这里的荒芜，希斯克利夫先生和我是再好不过的一对了。一个绝好的家伙！当我站起来，迎着他那双眉下闪烁着怀疑的目光时，他低估了我内心的热忱。当我自报家门时，他没有伸出手来，而是深深的插进他的马甲里，非常警惕。
 <br/>
 'Mr. Heathcliff?' I said.
@@ -14,10 +14,10 @@ A nod was the answer.
 <br/>
 点头算是回答。
 <br>
-'Mr. Lockwood, your new tenant, sir. I do myself the honour of calling as soon as possible after my arrival, to express the hope that I have not inconvenienced you by my perseverance in soliciting the occupation of Thrushcross Grange: I heard yesterday you had had some thoughts - '
+<b>'Mr. Lockwood, your new tenant, sir. I do myself the honour of calling as soon as possible after my arrival, to express the hope that I have not inconvenienced you by my perseverance in soliciting the occupation of Thrushcross Grange: I heard yesterday you had had some thoughts - '</b>
 “先生，我是洛克伍德，您的新房客。为了表达我的敬意，一到这里我就赶来拜访您，希望我坚持求租画眉山庄不会给您带来什么不便，因为我听说您昨天有一些想法。
 <br/>
-'Thrushcross Grange is my own, sir,' he interrupted, wincing. 'I should not allow any one to inconvenience me, if I could hinder it - walk in!'
+<b>'Thrushcross Grange is my own, sir,' he interrupted, wincing. 'I should not allow any one to inconvenience me, if I could hinder it - walk in!'</b>
 <br/>
 “先生，画眉山庄是我的财产，”他打断我的话，退缩了一下，“如果我可以阻止的话，我不会让任何人给我造成不便。进来！”
 <br/>
