@@ -1,8 +1,9 @@
 <h1>名著《呼啸山庄》中英文对照翻译 第1篇</h1>
 日期:2008-09-13 23:00
 (单词翻译:单击)
-
+<font color="blue">
 <b>I have just returned from a visit to my landlord - the solitary neighbour that I shall be troubled with. This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society. A perfect misanthropist's heaven: and Mr. Heathcliff and I are such a suitable pair to divide the desolation between us. A capital fellow! He little imagined how my heart warmed towards him when I beheld his black eyes withdraw so suspiciously under their brows, as I rode up, and when his fingers sheltered themselves, with a jealous resolution, still further in his waistcoat, as I announced my name.</b>
+</font>
 <br>
 我刚刚拜访了我的房东－－一个孤独的且将给我带来麻烦的邻居。这的确是非常漂亮的乡村！在英格兰，我认为找不到比这更远离社会喧嚣的地方了。这里是隐居者的完美天堂，而分享这里的荒芜，希斯克利夫先生和我是再好不过的一对了。一个绝好的家伙！当我站起来，迎着他那双眉下闪烁着怀疑的目光时，他低估了我内心的热忱。当我自报家门时，他没有伸出手来，而是深深的插进他的马甲里，非常警惕。
 <br/>
